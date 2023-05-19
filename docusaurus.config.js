@@ -21,6 +21,8 @@ const config = {
   organizationName: "juliushuck", // Usually your GitHub org/user name.
   projectName: "bujus-instructions", // Usually your repo name.
 
+  trailingSlash: false,
+
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
 
