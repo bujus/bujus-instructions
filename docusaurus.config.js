@@ -72,12 +72,31 @@ const config = {
           //   position: "left",
           //   label: "Tutorial",
           // },
-          // { to: "/blog", label: "Blog", position: "left" },
-          // {
-          //   href: "https://github.com/facebook/docusaurus",
-          //   label: "GitHub",
-          //   position: "right",
-          // },
+          {
+            to: "https://bujus.de",
+            label: "Webseite",
+            position: "left",
+          },
+          {
+            to: "https://bujus.de/#contact-section",
+            label: "Hilfe",
+            position: "left",
+          },
+          {
+            to: "https://school-app.bujus.de",
+            label: "Schul-App",
+            position: "right",
+          },
+          {
+            to: "https://apps.apple.com/de/app/bujus-helfer/id1638017365",
+            label: "iOS Helfer-App",
+            position: "right",
+          },
+          {
+            to: "https://play.google.com/store/apps/details?id=de.bujus.helper_app",
+            label: "Android Helfer-App",
+            position: "right",
+          },
         ],
       },
       // footer: {
@@ -129,6 +148,20 @@ const config = {
         darkTheme: darkCodeTheme,
       },
     }),
+  themes: [
+    [
+      require.resolve("@easyops-cn/docusaurus-search-local"),
+      {
+        // ... Your options.
+        // `hashed` is recommended as long-term-cache of index file is possible.
+        hashed: true,
+        // For Docs using Chinese, The `language` is recommended to set to:
+        // ```
+        // language: ["en", "zh"],
+        // ```
+      },
+    ],
+  ],
 };
 
 module.exports = config;

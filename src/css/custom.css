@@ -28,3 +28,25 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+.navbar__logo {
+  height: 1.8rem;
+  margin-right: 1rem;
+  margin-left: 0.5rem;
+}
+
+a.card,
+a.card:hover {
+  box-shadow: unset;
+}
+
+.video__wrapper {
+  position: relative;
+  padding-bottom: 56.25%;
+}
+
+.video__player {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
