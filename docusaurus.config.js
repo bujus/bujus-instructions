@@ -66,12 +66,6 @@ const config = {
           src: "img/logo.png",
         },
         items: [
-          // {
-          //   type: "docSidebar",
-          //   sidebarId: "tutorialSidebar",
-          //   position: "left",
-          //   label: "Tutorial",
-          // },
           {
             to: "https://bujus.de",
             label: "Webseite",
@@ -88,14 +82,19 @@ const config = {
             position: "right",
           },
           {
-            to: "https://apps.apple.com/de/app/bujus-helfer/id1638017365",
-            label: "iOS Helfer-App",
+            type: "dropdown",
+            label: "Helfer-App",
             position: "right",
-          },
-          {
-            to: "https://play.google.com/store/apps/details?id=de.bujus.helper_app",
-            label: "Android Helfer-App",
-            position: "right",
+            items: [
+              {
+                to: "https://apps.apple.com/de/app/bujus-helfer/id1638017365",
+                label: "Apple AppStore",
+              },
+              {
+                to: "https://play.google.com/store/apps/details?id=de.bujus.helper_app",
+                label: "Google PlayStore",
+              },
+            ],
           },
         ],
       },

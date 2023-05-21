@@ -6,7 +6,7 @@ import ReactPlayer from "react-player";
 
 # Helfer hinzufügen
 
-## Video
+<!-- ## Video
 
 <div className="video__wrapper">
   <ReactPlayer
@@ -25,8 +25,29 @@ import ReactPlayer from "react-player";
     width="100%"
   />
 </div>
-­{" "}
+­{" "} -->
 
 ## Zusammenfassung
 
-### Zugangsdaten verteilen
+### Einleitung
+
+- Nachdem Sie eine Veranstaltung erstellt haben, müssen Sie nun die Helfer hinzufügen.
+- Dies können Sie manuell tun oder Sie importieren die Helfer aus einer CSV-Datei.
+- Wichtig ist, dass Helfer aktiv und inaktiv sein können
+
+### Helfer hinzufügen
+
+1. `Navigation` > `Helfer` auswählen.
+2. `Hinzufügen` klicken.
+3. `Name` eingeben. Benutzername und Passwort werden automatisch generiert.
+4. Optional `Benutzername` eingeben.
+5. Optional `Passwort` eingeben.
+6. Optional `Aktiv` aktivieren.
+7. `Hinzufügen` klicken.
+
+### Aktiv vs. Inaktiv
+
+- Helfer können aktiv und inaktiv sein.
+- Helfer, egal ob aktiv oder inaktiv, können sich immer in der Helfer-app einloggen, Ergebnisse lokal eingeben.
+- Inaktive Helfer können keine Ergebnisse hochladen und auch keine hochgeladene Ergebnisse ansehen, bearbeiten oder entfernen.
+- [Helfer aktivieren/deaktivieren](../durchf%C3%BChrung/helfer-einweisen.md#alle-helfer-aktivieren)

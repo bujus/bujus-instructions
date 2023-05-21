@@ -12,7 +12,6 @@ import ReactPlayer from "react-player";
   <ReactPlayer
     className="video__player"
     controls
-    height="100%"
     config={{
       file: {
         attributes: {
@@ -21,6 +20,7 @@ import ReactPlayer from "react-player";
         },
       },
     }}
+    height="100%"
     url="https://storage.googleapis.com/files.school-app.bujus.de/school-instructions-v2-compressed.mp4"
     width="100%"
   />

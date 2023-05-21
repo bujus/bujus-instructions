@@ -29,8 +29,4 @@ import ReactPlayer from "react-player";
 
 ## Zusammenfassung
 
-### Zugangsdaten verteilen
-
-1. Navigation > Helfer
-2. Toolbar Zugangsdaten drucken > Drucken
-3. PDF ausdrucken
+### Ergebnisse

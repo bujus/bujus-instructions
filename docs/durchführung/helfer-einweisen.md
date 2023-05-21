@@ -6,13 +6,12 @@ import ReactPlayer from "react-player";
 
 # Helfer einweisen
 
-## Video
+<!-- ## Video
 
 <div className="video__wrapper">
   <ReactPlayer
     className="video__player"
     controls
-    height="100%"
     config={{
       file: {
         attributes: {
@@ -21,33 +20,51 @@ import ReactPlayer from "react-player";
         },
       },
     }}
+    height="100%"
     url="https://storage.googleapis.com/files.school-app.bujus.de/school-instructions-v2-compressed.mp4"
     width="100%"
   />
 </div>
-­{" "}
+­{" "} -->
 
 ## Zusammenfassung
 
-### Zugangsdaten verteilen
+### Einleitung
 
-1. Navigation > Helfer
-2. Toolbar Zugangsdaten drucken > Drucken
-3. PDF ausdrucken
-4. Zugangsdaten auseinander schneiden
-5. Zugangsdaten verteilen
+- Die Helfer müssen sich alle die Helfer-App herunterladen auf ihr Smartphone. Alternativ kann die App auch auf z. B. Schultablets heruntergeladen werden.
+
+- Jeder Helfer hat eigene Zugangsdaten zur Anmeldung in der Helfer-App.
+- Benutzername und Passwort sind in der Helferübersicht zu finden.
+- Die 3-Word-ID der Veranstaltung finden Sie unter `Navigation` > `Veranstaltung` > Oben `3-Word-ID`.
+
+2. Aktivieren Sie alle Helfer
+
+### Zugangsdaten ausdrucken und verteilen
+
+1. `Navigation` > `Helfer`klicken.
+2. `Toolbar` > `Zugangsdaten` klicken.
+3. `Drucken` klicken.
+4. PDF ausdrucken.
+5. Zugangsdaten an den Linien auseinander schneiden.
+6. Zugangsdaten verteilen.
+
+### Helfer-App Download-Links
+
+- [Apple AppStore](https://apps.apple.com/de/app/bujus-helfer/id1638017365)
+- [Android PlayStore](https://play.google.com/store/apps/details?id=de.bujus.helper_app)
 
 ### Alle Helfer aktivieren
 
-1. Navigation > Helfer
-2. Toolbar Alle aktivieren > Alle aktivieren
+#### Alle Helfer aktivieren/deaktivieren
 
-### Einzelne Helfer aktivieren
+1. `Navigation` > `Helfer` auswählen.
+2. `Toolbar` > `Aktivieren` klicken.
+3. `Alle deaktivieren` oder `Alle aktivieren` klicken.
 
-1. Helfer heraussuchen und bei diesem ganz rechts auf Bearbeiten klicken
-2. Aktivieren oder Deaktivieren
-3. Ändern
+#### Einzelne Helfer aktivieren/deaktivieren
 
-### Helfer melden sich an
-
-1. Mit den Zugangsdaten melden sich die Helfer in der Helfer-App an
+1. `Navigation` > `Helfer` auswählen.
+2. `Helfer` in der Übersicht suchen.
+3. Rechte Spalte `Aktionen` > `Bearbeiten` klicken.
+4. `Aktiv` aktivieren/deaktivieren.
+5. `Ändern` klicken.
