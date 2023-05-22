@@ -78,7 +78,7 @@ import ReactPlayer from "react-player";
 
 :::tip
 
-**Sie sind sich unsicher?**
+**Enthält die erste Zeile meiner CSV-Datei Spaltennamen?**
 
 Unter der Checkbox sehen Sie eine Tabelle. Dies ist eine Vorschau Ihrer hochgeladenen CSV-Datei.
 

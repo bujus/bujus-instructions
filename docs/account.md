@@ -31,21 +31,19 @@ import ReactPlayer from "react-player";
 
 ### Einleitung
 
-- Um Bujus zu benutzen, müssen Sie sich zuerst einen Account erstellen.
+Um Bujus zu benutzen, benötigen Sie als Organisator als erstes einen Account in der Schul-App.
 
 ### Account erstellen
 
-1. Schul-App öffnen: [https://school-app.bujus.de](https://school-app.bujus.de).
-2. `Account erstellen` klicken.
-3. `Schulnname` eingeben.
-4. `Email-Adresse` eingeben. Dies kann auch Ihre private Email-Adresse sein.
-5. `Passwort` eingeben.
-6. `Account erstellen` klicken. Sie bekommen eine Email mit einem Link, um Ihre Email-Adresse zu bestätigen.
-7. E-Mail-Postfach öffnen und Email von Bujus suchen.
-8. In der E-Mail `Email-Adresse bestätigen` klicken. Es öffnet sich erneut die Schul-App.
-9. In der Schul-App `Email-Adresse bestätigen` klicken.
+1. Öffnen Sie zunächst die Schul-App in Ihrem Browser ([https://school-app.bujus.de](https://school-app.bujus.de)). Sie landen dann wahrscheinlich auf der Anmeldeseite.
+2. Klicken Sie jetzt unten rechts auf `Account erstellen`.
+3. Dann können Sie Ihren `Schulnname`, Ihre `Email-Adresse` und Ihr gewünschtes `Passwort` eingeben.
+4. Danach klicken Sie auf `Account erstellen` klicken.
+5. Bevor Sie sich jetzt Anmelden können, müssen Sie noch Ihre Email-Adresse bestätigen. Dazu schickt Bujus Ihnen eine Email mit einem Bestätigungslink. Öffnen Sie also Ihr Email-Postfach und suchen Sie nach der neuen Email von Bujus.
+6. In der Email klicken Sie dann auf `Email-Adresse bestätigen`, wodurch sich erneut die Schul-App öffnet.
+7. In der Schul-App müssen Sie jetzt noch als Letztes noch mal `Email-Adresse bestätigen` klicken. Dann ist Ihr Account erstellt und Sie können sich anmelden.
 
-### Anmelden
+<!-- ### Anmelden
 
 TODO
 
@@ -63,4 +61,4 @@ TODO
 
 ### Account löschen
 
-TODO
+TODO -->

@@ -31,42 +31,31 @@ import ReactPlayer from "react-player";
 
 ### Einleitung
 
-- Wenn Sie sich mit Ihrem Account angemeldet haben, kommen Sie auf das Dashboard.
+Wenn Sie sich mit Ihrem Account angemeldet haben, kommen Sie auf das Schul-App Dashboard.
 
-### Appbar
+<!-- TODO Bild -->
 
-TODO Bild
+Oben rechts in der Ecke sehen Sie, welche Veranstaltung aktuell ausgewählt ist.
 
-- Oben rechts in der Ecke sehen Sie, welche Veranstaltung aktuell ausgewählt ist.
-- Rechts daneben finden Sie das Account-Menü. Hier können Sie sich bei Bedarf abmelden.
+Rechts daneben finden Sie das Account-Menü. Hier können Sie sich bei Bedarf abmelden.
 
-### Navigation
-
-TODO Bild
-
-- An der linken Seite finden Sie die Navigation.
-- Der obere Bereich ist für die Verwaltung der aktuell ausgewählten Veranstaltung. Wenn Sie noch keine Veranstaltung erstellt haben ist dieser Bereich noch ausgegraut.
-- Der untere Bereich für die Verwaltung Ihres Accounts.
-
-### Toolbar
-
-TODO
+An der linken Seite finden Sie die Navigation. Der obere Bereich dieser ist für die Verwaltung der aktuell ausgewählten Veranstaltung - Wenn Sie noch keine Veranstaltung erstellt haben ist dieser Bereich noch ausgegraut. Im unteren Bereich können Sie Ihren Account verwalten.
 
 ### Veranstaltung auswählen
 
-2 Möglichkeiten
+Wenn Sie mehrer Veranstaltung erstellt haben, haben Sie zwei Möglichkeiten eine Veranstaltung auszuwählen:
 
 #### 1. Über die Appbar
 
-TODO Bild
+<!-- TODO Bild -->
 
-1. `Appbar` > Rechts auf die aktuell ausgewählte Veranstaltung klicken
-2. Veranstaltung auswählen. Hier werden nur die 5 neusten Veranstaltungen angezeigt.
+1. Oben rechts auf die aktuell ausgewählte Veranstaltung klicken.
+2. Dann die gewünschte Veranstaltung aus der Liste auswählen. Hier werden allerdings nur die 5 neusten Veranstaltungen angezeigt.
 
 #### 2. Über die Veranstaltungsübersicht
 
-TODO Bild
+<!-- TODO Bild -->
 
-1. `Navigation` > `Veranstaltungen` auswählen
-2. Veranstaltung in der Übersicht suchen
-3. Rechte Spalte `Auswählen` > Aktivieren
+1. Gehen Sie über die Navigation zur Veranstaltungsübersicht.
+2. Suchen Sie die gewünschte Veranstaltung in der Liste.
+3. Klicken Sie bei der Veranstaltung in der rechten Spalte auf die Checkbox.

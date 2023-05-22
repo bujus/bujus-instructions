@@ -42,12 +42,12 @@ import ReactPlayer from "react-player";
 
 #### Test-Veranstaltung
 
-1. `Navigation` > `Veranstaltungen` auswählen.
-2. `Toolbar` > `Erstellen` klicken.
-3. `Test-Veranstaltung` auswählen.
-4. `Name` eingeben.
-5. `Start`datum eingeben. Dieses wird zur Berechnung der Punktzahlen genutzt.
-6. `Erstellen` klicken. Die Veranstaltung wird direkt ausgewählt.
+1. Gehen Sie über die Navigation zur Veranstaltungsübersicht.
+2. Klicken Sie oben rechts auf Erstellen. Es öffnet sich der Dialog zur Erstellung einer neuen Veranstaltung.
+3. Wählen Sie als Typ Test-Veranstaltung aus.
+4. Geben Sie einen Namen für die Veranstaltung ein.
+5. Als nächstes müssen Sie das Startdatum auswählen. Das Startdatum legt fest, wann man Ergebnisse in die Veranstaltung eintragen kann. Zu Testzwecken kann man 30 Tage vor dem Startdatum schon Ergebnisse eintragen und dann noch 100 Tage lang - Sodass man die Bundesjugendspiele auch nicht an einem einzigen Tag durchführen muss. Vorbereiten und Auswerten kann man die Veranstaltung immer. Wichtig ist, dass das Startdatum auch zur Berechnung der Altersgruppen der Teilnehmer genutzt wird und damit auch Auswirkungen auf die Auswertung hat.
+6. Als letztes müssen Sie nur noch auf Erstellen klicken. Dann wird die Veranstaltung erstellt und auch direkt ausgewählt.
 
 #### Echte-Veranstaltung
 

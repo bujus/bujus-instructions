@@ -16,7 +16,7 @@ import ReactPlayer from "react-player";
       file: {
         attributes: {
           poster:
-            "https://uploads-ssl.webflow.com/60cb8d6c93a6a6dfa3b7f245/64345e1514a8f53d8aad199e_school-instructions-video-thumbnail.jpg",
+            "https://uploads-ssl.webflow.com/60cb8d6c93a6a6dfa3b7f24564345e1514a8f53d8aad199e_school-instructions-video-thumbnail.jpg",
         },
       },
     }}

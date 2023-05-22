@@ -31,16 +31,26 @@ import ReactPlayer from "react-player";
 
 ### Drucker einstellen
 
-1. Immer den selben Drucker und Einzug benutzen
-2. Bei Laserdruckern Papierdicke auf dick/schwer einstellen
-3. Papier sauber gestapelt und gerade in den Einzug legen, die Führungen eng anlegen
-4. Urkunden richtig herum einlegen
-    1. Urkundenpapier irgendwie einlegen
-    2. Auf das oberste Blatt oben, vorne ein Kreuz machen
-    3. Eine Testurkunde ausdrucken
-    4. Schauen, wo der Aufdruck gelandet ist, dem entsprechend das Papier drehen und wieder einlegen (Am besten zur Erinnerung der neuen Richtung ein Foto machen)
-    5. Eine Testurkunde ausdrucken
-    6. Wenn nötig, Vorgang wiederholen
+Bevor Sie Urkunden ausrichten und später dann ausdrucken ist es wichtig, dass Sie Ihren Drucker richtig einstellen. Dazu gibt es ein paar wichtige Punkte:
+
+1. Benutzen Sie immer den selben Drucker und an diesem immer den selben Einzug.
+2. Stellen Sie bei Laserdruckern die Papierdicke auf dick/schwer ein, damit die Farbe gut haftet und nicht abblättert.
+3. Legen Sie das Urkundenpapier immer sauber gestapelt und gerade in den Einzug ein. Das ganze funktioniert besser, wenn Sie immer einen Stapel einlegen und nicht nur einzelne Blätter. Legen Sie auch die Führungen des Einzugs eng an das Papier an.
+4. Legen Sie die Urkunden richtig herum ein, sodass der Aufdruck auf der richtigen Seite landet.
+
+:::tip
+
+**Wie rum muss ich die Urkunden in meinen Drucker einlegen?**
+
+Um dies herauszufinden, müssen Sie etwas ausprobieren:
+
+1. Legen Sie einen Stapel Urkundenpapier irgendwie in den Einzug Ihres Druckers ein.
+2. Drucken Sie eine Testurkunde aus. Wie das geht, können Sie weiter unten lesen.
+3. Schauen Sie auf dem Ausdruck, wo der Aufdruck gelandet ist. Wenn Sie Glück haben, ist der Aufdruck genau an der richtigen Stelle. Sprich der Name ist auf der Namenslinie, die Punktzahl steht an der richtigen Stelle, etc. Andernfalls müssen Sie den Stapel anders einlegen und den Vorgang wiederholen.
+4. Wenn Sie die richtige Richtung gefunden haben, machen Sie am besten ein Foto zur Erinnerung von dem Stapel im Einzug. Wenn der Stapel oben die Rückseite des Urkundenpapiers zeigt und nicht die Seite, auf die Name, Punkzahl, etc. gedruckt werden soll, müssen Sie den Stapel für das Foto eventuell leicht anheben, damit Sie die Ausrichtung auf dem Foto später wirklich noch erkennen können.
+
+:::
+
 
 ### Skalierung einstellen
 
