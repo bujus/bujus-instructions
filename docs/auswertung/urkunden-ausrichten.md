@@ -31,18 +31,28 @@ import ReactPlayer from "react-player";
 
 Jeder Drucker druckt etwas anderes, weswegen Sie, bevor Sie die Urkunden ausdrucken können, diese erstmal ausrichten müssen.
 
-Dazu müssen Sie zuerst Ihren Drucker einstellen, dann die Skalierung der Urkunden einstellen und zuletzt alles horizontal und vertikal ausrichten.
+### Papiergrößen
 
-### Drucker einstellen
+#### Ehrenurkunden
 
-Bevor Sie Urkunden Ausrichten und später dann Ausdrucken ist es wichtig, dass Sie Ihren Drucker richtig einstellen. Dazu gibt es ein paar wichtige Punkte:
+Breite:
+Höhe:
+
+#### Sieger- und Teilnehmerurkunden
+
+Breite:
+Höhe:
+
+### Drucker
+
+Bevor Sie Urkunden Ausrichten und später dann Ausdrucken ist es wichtig, dass Sie Ihren Drucker richtig benutzen. Dazu gibt es die folgenden Punkte zu beachten:
 
 1. Nutzen Sie immer den selben Drucker.
 2. Nutzen Sie an dem Drucker immer den selben Einzug. Achtung: Nicht jeder Drucker und Einzug unterstützt dickes Papier.
 3. Legen Sie das Urkundenpapier richtig herum ein, damit der Aufdruck auf der richtigen Seite landet.
 4. Legen Sie das Urkundenpapier immer sauber gestapelt und gerade in den Einzug ein. Legen Sie dann auch die Führungen des Einzugs eng an das Papier an.
 5. Stellen Sie bei Laserdruckern die Papierdicke auf dick/schwer ein, damit die Farbe gut haftet und nicht abblättert.
-6. Drucken Sie die Urkunden immer mit 100 % Skallierung aus.å
+6. Eventuell müssen Sie an ihrem Drucker die Größe des zugeführten Papiers einstellen.
 
 :::tip
 
@@ -56,6 +66,11 @@ Um dies herauszufinden, müssen Sie etwas ausprobieren:
 4. Wenn Sie die richtige Richtung gefunden haben, machen Sie zur Erinnerung am besten ein Foto von dem Stapel im Einzug. Wenn der Stapel oben die Rückseite des Urkundenpapiers zeigt und nicht die Seite, auf die Name, Punkzahl, etc. gedruckt werden soll, müssen Sie den Stapel für das Foto eventuell leicht anheben, damit Sie die Ausrichtung auf dem Foto später wirklich noch erkennen können.
 
 :::
+
+### Druck einstellen
+
+1. Stellen Sie die richtige Papiew
+1. Drucken Sie die Urkunden immer mit 100 % Skallierung aus.
 
 ### Ausrichtung einstellen
 
