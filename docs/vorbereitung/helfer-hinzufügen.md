@@ -29,25 +29,39 @@ import ReactPlayer from "react-player";
 
 ## Zusammenfassung
 
-### Einleitung
-
-- Nachdem Sie eine Veranstaltung erstellt haben, müssen Sie nun die Helfer hinzufügen.
-- Dies können Sie manuell tun oder Sie importieren die Helfer aus einer CSV-Datei.
-- Wichtig ist, dass Helfer aktiv und inaktiv sein können
+Nachdem Sie eine Veranstaltung erstellt haben, können Sie nun die Helfer hinzufügen. Dies können Sie einzeln tun oder Sie importieren die Helfer aus einer CSV-Datei.
 
 ### Helfer hinzufügen
 
-1. `Navigation` > `Helfer` auswählen.
-2. `Hinzufügen` klicken.
-3. `Name` eingeben. Benutzername und Passwort werden automatisch generiert.
-4. Optional `Benutzername` eingeben.
-5. Optional `Passwort` eingeben.
-6. Optional `Aktiv` aktivieren.
-7. `Hinzufügen` klicken.
+1. Öffnen Sie die `Helfer-Übersicht`.
+2. Klicken Sie in der Toolbar auf `Hinzufügen`. Es öffnet sich ein Dialog.
+3. Geben Sie den `Namen` des Helfers an.
+4. Wenn sie möchten, können Sie selbst noch einen `Benutzernamen` und/oder ein `Passwort` eingeben. Ansonsten werden diese automatisch generiert.
+5. Klicken Sie unten auf `Hinzufügen`.
+
+### Helfer bearbeiten
+
+1. Gehen Sie zur `Helfer-Übersicht`.
+2. Suchen Sie den gewünschten Helfer aus der Liste.
+3. Klicken Sie in der rechten `Aktions-Spalte` auf `Bearbeiten`. Dadurch öffnet sich ein Dialog.
+4. Nehmen Sie die gewünschten Änderungen im Dialog vor.
+5. Klicken Sie unten rechts auf `Ändern`.
+
+### Helfer entfernen
+
+1. Öffnen Sie die `Helfer-Übersicht`.
+2. Suchen Sie den gewünschten Helfer in der Liste.
+3. Klicken Sie in der rechten `Aktions-Spalte` auf `Entfernen`. Dadurch öffnet sich ein Bestätigungs-Dialog.
+4. Bestätigen Sie, indem Sie unten rechts auf `Entfernen` klicken.
+
+### Helfer importieren
+
+Das Importieren von Helfern ist sehr ähnlich zum Importieren von Teilnehmern. Schauen Sie dort gerne, wie es funktioniert: [Teilnehmer importieren](./teilnehmer-importieren.md#teilnehmer-importieren) TODO
 
 ### Aktiv vs. Inaktiv
 
-- Helfer können aktiv und inaktiv sein.
-- Helfer, egal ob aktiv oder inaktiv, können sich immer in der Helfer-app einloggen, Ergebnisse lokal eingeben.
-- Inaktive Helfer können keine Ergebnisse hochladen und auch keine hochgeladene Ergebnisse ansehen, bearbeiten oder entfernen.
-- [Helfer aktivieren/deaktivieren](../durchf%C3%BChrung/helfer-einweisen.md#alle-helfer-aktivieren)
+Helfer können grundsätzlich aktiv oder inaktiv sein.
+
+Unabhängig davon, können sich Helfer immer in der Helfer-app einloggen und Ergebnisse lokal eintragen. Inaktive Helfer können dann aber keine Ergebnisse hochladen und auch keine hochgeladene Ergebnisse ansehen, bearbeiten oder entfernen.
+
+Damit die Helfer nicht an den Ergebnissen rumfuschen können, aktivieren Sie sie am besten nur währen der Durchführung der Veranstaltung. Wie Sie sie aktivieren bzw. deaktivieren lernen Sie in einem der nächsten Schritte ([Helfer einweisen - Helfer aktivieren/deaktivieren](../durchf%C3%BChrung/helfer-einweisen.md#alle-helfer-aktivieren)). TODO

@@ -29,20 +29,19 @@ import ReactPlayer from "react-player";
 
 ## Zusammenfassung
 
+Wenn alle Ergebnisse korrekt eingetragen sind, können Sie die Urkunden generieren. Dabei kann es passieren, dass für manche Teilnehmer keine Urkunden generiert werden kann. Dies liegt dann daran, dass diesen Teilnehmern noch Ergebnisse fehlen. Um solche Fehler zu behe
+
 ### Urkunden generieren
+
+1. Navigieren Sie zur `Urkunden-Übersicht`.
+2. Klicken Sie oben rechts auf `Generieren`.
+3. Drücken Sie dann im Dialog nochmal auf `Drucken`.
 
 ### Nicht generierbare Urkunden beheben
 
-wenn alle ergebnisse drinn sind
+TODO Bad
 
-urkunden generieren
-
-es wurden zwei generiert
-
-muss man auch immer wieder machen wenn man ergebnisse hinzugefügt hat oder geändert hat
-
-was ganz fehlt ist eine dritte urkunde
-
-sieht man in tab 2 es fehlt ein ergebnis, sieht man auch bei den ergebnissen
-
-wir tragen jz nochmal eins nach
+1. Nachdem Sie die Urkunden generiert haben, können Sie in der `Urkunden-Übersicht` ganz oben rechts auf `Nicht generierte Urkunden` klicken.
+2. In den letzten vier Spalten sehen Sie, welche Punktzahlen für die einzelnen Kategorien generiert wurden. Es muss mindestens ein Ergebnis in mindestens drei Kategorien eingetragen sein, damit eine Urkunde generiert werden kann.
+3. Bei den nicht generierten Urkunden fehlen dann 1 bis 3 Ergebnisse. Um diese Urkunden zu generieren, müssen Sie die fehlenden Ergebnisse nachtragen.
+4. Dazu können Sie einfach in der `Ergebnis-Übersicht` Ergebnisse nachtragen. Wenn Sie die Ergebnisse nachgetragen haben, können Sie die Urkunden erneut generieren.

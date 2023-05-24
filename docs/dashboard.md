@@ -29,8 +29,6 @@ import ReactPlayer from "react-player";
 
 ## Zusammenfassung
 
-### Einleitung
-
 Wenn Sie sich mit Ihrem Account angemeldet haben, kommen Sie auf das Schul-App Dashboard.
 
 <!-- TODO Bild -->
@@ -52,10 +50,10 @@ Wenn Sie mehrer Veranstaltung erstellt haben, haben Sie zwei Möglichkeiten eine
 1. Oben rechts auf die aktuell ausgewählte Veranstaltung klicken.
 2. Dann die gewünschte Veranstaltung aus der Liste auswählen. Hier werden allerdings nur die 5 neusten Veranstaltungen angezeigt.
 
-#### 2. Über die Veranstaltungsübersicht
+#### 2. Über die Veranstaltungs-Übersicht
 
 <!-- TODO Bild -->
 
-1. Gehen Sie über die Navigation zur Veranstaltungsübersicht.
+1. Gehen Sie über die Navigation zur Veranstaltungs-Übersicht.
 2. Suchen Sie die gewünschte Veranstaltung in der Liste.
 3. Klicken Sie bei der Veranstaltung in der rechten Spalte auf die Checkbox.

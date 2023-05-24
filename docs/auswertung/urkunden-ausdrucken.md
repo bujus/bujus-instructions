@@ -28,23 +28,22 @@ import ReactPlayer from "react-player";
 ­{" "}
 
 ## Zusammenfassung
-
+  
 ### Alle ausdrucken
 
-1. Navigation > Urkunden
-2. Toolbar > Alle drucken
-3. Dialog > Drucken
-4. Es werden drei PDFs generiert (Jeweils eins mit den Ehren-, Sieger- und Teilnehmerurkunden)
-5. Alle drei PDFs herunterladen
-6. Ehrenurkundenpapier in den Drucker einlegen
-7. Ehrenurkunden ausdrucken und immer wieder Papier nachlegen
-8. Für Sieger- und Teilnehmerurkunden wiederholen
+1. Navigieren Sie zur `Urkundenübersicht`.
+2. Klicken Sie oben rechts auf `Drucken`.
+3. Wenn Sie möchten können Sie eine `Sortierung` und eine `Reihenfolge` für die Urkunden festlegen.
+4. Klicken Sie unten rechts auf `Drucken`. Dadurch werden drei PDFs generiert - Jeweils eins mit den Ehren-, Sieger- und Teilnehmerurkunden.
+5. Klicken Sie nacheinander auf die drei Buttons um alle drei PDFs zu öffnen.
+6. Laden Sie sich dann alle drei PDFs herunter.
+7. Drucken Sie zuletzt die Urkunden aus. Legen Sie dazu immer das passende Urkundenpapier in den Drucker ein und drucken Sie die Urkunden. Eventuell müssen Sie zwischendurch Papier nachlegen. Beachten Sie dabei die Tips zum Drucken von Urkunden. TODO
 
 ### Einzeln ausdrucken
 
-1. Navigation > Urkunden
-2. Urkunde heraussuchen und bei dieser ganz rechts auf Ausdrucken klicken
-3. Dialog > Drucken
-4. PDF herunterladen
-5. Richtiges Urkundenpapier in den Drucker einlegen
-6. Urkunde ausdrucken
+1. Gehen Sie zur `Urkundenübersicht`.
+2. Suchen Sie sich die gewünschte Urkunde heraus.
+3. Klicken Sie in der ganz rechten `Aktions-Spalte` auf `Drucken`.
+4. Bestätigen Sie den Druck, indem Sie auf auf `Drucken` klicken.
+5. Laden Sie das PDF herunter.
+6. Drucken Sie die Urkunde aus. Legen Sie dazu das passende Urkundenpapier in den Drucker ein und drucken Sie die Urkunde. Beachten Sie dabei die Tips zum Drucken von Urkunden. TODO

@@ -29,34 +29,51 @@ import ReactPlayer from "react-player";
 
 ## Zusammenfassung
 
-### Einleitung
+Um eine Veranstaltung mit Bujus durchzuführen, müssen Sie zunächst eine Veranstaltung erstellen.
 
-- Um eine Veranstaltung mit Bujus durchzuführen, müssen Sie zunächst eine Veranstaltung erstellen.
+Dabei unterscheidet Bujus zwischen Test-Veranstaltungen und Echten-Veranstaltungen.
 
-### Test vs. Echte Veranstaltung
+Mit einer Test-Veranstaltung können Sie alle Funktionen mit einer kleinen Anzahl an Helfern und Teilnehmern kostenlos ausprobieren.
 
-- Mit einer Test-Veranstaltung können Sie alle Funktionen mit einer kleinen Anzahl an Helfern und Teilnehmern kostenlos ausprobieren.
-- Mit einer echten Veranstaltung können Sie eine Veranstaltung mit beliebig vielen Helfern und Teilnehmern durchführen.
+Mit einer echten Veranstaltung können Sie eine Veranstaltung mit beliebig vielen Helfern und Teilnehmern durchführen.
 
 ### Veranstaltung erstellen
 
 #### Test-Veranstaltung
 
-1. Gehen Sie über die Navigation zur Veranstaltungsübersicht.
-2. Klicken Sie oben rechts auf Erstellen. Es öffnet sich der Dialog zur Erstellung einer neuen Veranstaltung.
-3. Wählen Sie als Typ Test-Veranstaltung aus.
-4. Geben Sie einen Namen für die Veranstaltung ein.
-5. Als nächstes müssen Sie das Startdatum auswählen. Das Startdatum legt fest, wann man Ergebnisse in die Veranstaltung eintragen kann. Zu Testzwecken kann man 30 Tage vor dem Startdatum schon Ergebnisse eintragen und dann noch 100 Tage lang - Sodass man die Bundesjugendspiele auch nicht an einem einzigen Tag durchführen muss. Vorbereiten und Auswerten kann man die Veranstaltung immer. Wichtig ist, dass das Startdatum auch zur Berechnung der Altersgruppen der Teilnehmer genutzt wird und damit auch Auswirkungen auf die Auswertung hat.
-6. Als letztes müssen Sie nur noch auf Erstellen klicken. Dann wird die Veranstaltung erstellt und auch direkt ausgewählt.
+1. Gehen Sie zur `Veranstaltungs-Übersicht`.
+2. Klicken Sie oben rechts auf `Erstellen`.
+3. Wählen Sie im Dialog als Typ `Test-Veranstaltung` aus.
+4. Geben Sie einen `Namen` für die Veranstaltung ein.
+5. Wählen Sie ein `Startdatum` aus.
+6. Klicken Sie unten rechts auf `Erstellen`. Die Veranstaltung wird erstellt und auch direkt ausgewählt.
 
 #### Echte-Veranstaltung
 
-1. `Navigation` > `Veranstaltungen` auswählen.
-2. `Toolbar` > `Erstellen` klicken.
-3. `Echte-Veranstaltung` auswählen.
-4. `Name` eingeben.
-5. `Start`datum eingeben. Dieses wird zur Berechnung des Alters der Teilnehmer und damit auch zur Berechnung der Punktzahlen genutzt.
-6. `Max. Teilnehmeranzahl` auswählen.
-7. Optional `Discount-Code` eingeben. Wenn es sich um einen Discount-Code für eine komplett kostenlose Veranstaltung handelt, wird die Veranstaltung direkt erstellt. Wenn es sich um einen Rabatt handelt, werden Sie auf die Zahlungsseite weitergeleitet.
-8. `Erstellen` klicken. Es öffnet sich die Zahlungsseite.
-9. Zahlen. Es öffnet sich erneut die Schul-App und die neue Veranstaltung wird direkt ausgewählt.
+1. Navigieren Sie zur `Veranstaltungs-Übersicht`.
+2. Klicken Sie oben rechts auf `Erstellen`.
+3. Wählen Sie im Dialog als Typ `Echte-Veranstaltung` aus.
+4. Geben Sie den `Namen` für die Veranstaltung an.
+5. Wählen Sie das `Startdatum` aus.
+6. Wählen Sie die benötigte `Max. Teilnehmeranzahl` aus.
+7. Wenn Sie einen Discount-Code haben, können Sie diesen jetzt noch eingeben.
+8. Klicken Sie auf `Bezahlen und Erstellen`. Dadurch werden Sie auf die Zahlungsseite weitergeleitet. (Wenn Sie einen Discount-Code für eine komplett kostenlose Veranstaltung eingegeben haben, werden Sie nicht weitergeleite und die Veranstaltung wird direkt erstellt.)
+9. Zahlen Sie. Dann werden Sie automatisch wieder zur Schul-App geleitet, die Veranstaltung wird erstellt und auch direkt ausgewählt.
+
+:::info
+
+**Startdatum**
+
+Das Startdatum legt fest, wann man Ergebnisse in die Veranstaltung eintragen kann.
+
+Zu Testzwecken kann man 30 Tage vor dem Startdatum schon Ergebnisse eintragen und dann noch 100 Tage lang - Sodass man die Bundesjugendspiele auch nicht an einem einzigen Tag durchführen muss.
+
+Vorbereiten und Auswerten kann man die Veranstaltung immer.
+
+Wichtig ist, dass das Startdatum auch zur Berechnung der Altersgruppen der Teilnehmer genutzt wird und damit auch Auswirkungen auf die Auswertung hat.
+
+:::
+
+<!-- ### Veranstaltung bearbeiten
+
+TODO -->

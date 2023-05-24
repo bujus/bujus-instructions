@@ -29,29 +29,38 @@ import ReactPlayer from "react-player";
 
 ## Zusammenfassung
 
-### Einleitung
+Wenn der Tag der Bundesjugendspiele gekommen ist, müssen sich zu erst alle Helfer die Helfer-App auf ihren Smartphones herunterladen. Alternativ kann die App auch auf z. B. Schultablets heruntergeladen werden. Die Links zu den Downloadseiten finden Sie auf bujus.de.
 
-- Die Helfer müssen sich alle die Helfer-App herunterladen auf ihr Smartphone. Alternativ kann die App auch auf z. B. Schultablets heruntergeladen werden.
+Zum Anmelden hat jeder Helfer eigenen Zugangsdaten, weswegen Sie jedem Helfer seine Zugangsdaten mitteilen müssen. Diese können Sie aber auch einfach ausdrucken und dann verteilen.
 
-- Jeder Helfer hat eigene Zugangsdaten zur Anmeldung in der Helfer-App.
-- Benutzername und Passwort sind in der Helferübersicht zu finden.
-- Die 3-Word-ID der Veranstaltung finden Sie unter `Navigation` > `Veranstaltung` > Oben `3-Word-ID`.
+Damit die Helfer wissen, wie sie die Helfer-App zu benutzen haben, wird ihnen vor der ersten Anmeldung ein kurzes Anleitungsvideo gezeigt. TODO
 
-2. Aktivieren Sie alle Helfer
+Wichtig ist, dass Sie die Helfer vor der Veranstaltung oder zumindest vor dem Hochladen der Ergebnisse aktivieren, sodass dise dies auch tun können. Nachdem alle Ergebnisse hochgeladen worden sind, können Sie wieder alle Helfer deaktivieren.
+
+:::tip
+
+**Was ist die Veranstaltung 3-Wort-ID?**
+
+Wenn sich Helfer in der Helfer-App anmelden möchten, benötigen sie neben Benutzername und Passwort noch die 3-Wort-ID der Vernanstaltung. Zur eindeutigen Identifizierung von Veranstaltungen hat jede Veranstaltung in Bujus eine eigene 3-Wort-ID. Diese finden Sie, wenn Sie in der Schul-App in der Navigation ganz oben auf `Veranstaltung` klicken und dann an erster Stelle über dem Namen der Veranstaltung schauen.
+
+:::
 
 ### Zugangsdaten ausdrucken und verteilen
 
-1. `Navigation` > `Helfer`klicken.
-2. `Toolbar` > `Zugangsdaten` klicken.
-3. `Drucken` klicken.
-4. PDF ausdrucken.
-5. Zugangsdaten an den Linien auseinander schneiden.
-6. Zugangsdaten verteilen.
+1. Navigieren Sie zur `Helferübersicht`.
+2. Klicken Sie dann oben rechts auf `Zugangsdaten`.
+3. Anschließend klicken Sie im sich geöffneten Dialog auf `Drucken`.
+4. Dadurch öffnet sich ein PDF, welches die Zugangsdaten enthält. Drucken Sie dieses aus.
+5. Schneiden Sie die Blätter dann an denen dafür vorgesehenen Linien auseinander.
+6. Jetzt können Sie die Schnipsel an die Helfer verteilen.
 
-### Helfer-App Download-Links
+### Veranstaltungsdaten erneut herunterladen
 
-- [Apple AppStore](https://apps.apple.com/de/app/bujus-helfer/id1638017365)
-- [Android PlayStore](https://play.google.com/store/apps/details?id=de.bujus.helper_app)
+TODO
+
+### Helfer-App
+
+Mehr Informationen zur Helfer-App finden Sie in der Anleitung der
 
 ### Alle Helfer aktivieren
 
