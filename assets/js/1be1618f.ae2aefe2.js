@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkbujus_docs=self.webpackChunkbujus_docs||[]).push([[428],{5853:e=>{e.exports=JSON.parse('{"title":"Vorbereitung","slug":"/category/vorbereitung","permalink":"/category/vorbereitung","navigation":{"previous":{"title":"Einleitung","permalink":"/"},"next":{"title":"Veranstaltung erstellen","permalink":"/vorbereitung/veranstaltung-erstellen"}}}')}}]);
