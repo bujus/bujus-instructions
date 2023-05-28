@@ -6,7 +6,7 @@ import ReactPlayer from "react-player";
 
 # Ergebnisse eintragen
 
-<!-- ## Video
+<!--
 
 <div className="video__wrapper">
   <ReactPlayer
@@ -27,13 +27,11 @@ import ReactPlayer from "react-player";
 </div>
 ­{" "} -->
 
-## Zusammenfassung
-
 Während die Bundesjugendspiele laufen, tragen die Helfer die Ergebnisse der Teilnehmer offline direkt an den Stationen in die Helfer-App ein.
 
 Am Ende der Veranstaltung wenn alle Ergebnisse eingetragen worden sind, laden die Helfer die Ergebnisse hoch. Es ist auch möglich, dass Helfer die Ergebnisse auch schon während der Veranstaltung mal hochladen. Danach können Sie die Ergebnisse auch in der Schul-App einsehen und auch selbst noch bearbeiten.
 
-### Ergebnisse eintragen
+## Ergebnisse eintragen
 
 1. Navigieren Sie zur `Ergebnis-Übersicht`.
 2. Klicken Sie oben rechts auf `Eintragen`. Daraufhin öffnet sich ein Dialog
@@ -55,7 +53,7 @@ Die Auswahl von Helfer, Teilnehmer und Disziplin ist vielleicht nicht ganz selbs
 
 :::
 
-### Ergebnisse bearbeiten
+## Ergebnisse bearbeiten
 
 1. Navigieren Sie zur `Ergebnis-Übersicht`.
 2. Suchen Sie das gewünschte Ergebnis in der Liste.
@@ -63,7 +61,7 @@ Die Auswahl von Helfer, Teilnehmer und Disziplin ist vielleicht nicht ganz selbs
 4. Nehmen Sie die gewünschten Änderungen vor.
 5. Klicken Sie unten rechts auf `Ändern`.
 
-### Ergebnisse löschen
+## Ergebnisse löschen
 
 1. Navigieren Sie zur `Ergebnis-Übersicht`.
 2. Suchen Sie das gewünschte Ergebnis in der Liste.

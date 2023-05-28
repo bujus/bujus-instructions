@@ -13,7 +13,7 @@ Ich möchte Sie auch dazu einladen, direkt mitzumachen und so alles selbst einma
 
 Unter jedem Video finden Sie auch immer eine Zusammenfassung, sodass Sie sich einmal das Video anschauen können und dann bei Bedarf nochmal nachlesen können.
 
-## Video
+# Video
 
 <div className="video__wrapper">
   <ReactPlayer
@@ -34,27 +34,25 @@ Unter jedem Video finden Sie auch immer eine Zusammenfassung, sodass Sie sich ei
 </div>
 ­{" "}
 
-## Zusammenfassung
-
-### Was ist Bujus?
+## Was ist Bujus?
 
 Bujus ist eine Software mit der Sie ihre Bundesjugendspiele per App erfassen können und dann ganz einfach Urkunden ausdrucken können.
 
 Dazu besteht Bujus aus der Schul-App für den Organisator und der Helfer-App für die Helfer.
 
-### Schul-App für den Organisator
+## Schul-App für den Organisator
 
 Mit der Schul-App können Sie als Organisator Veranstaltungen verwalten, also z. B. Vorbereiten und Auswerten.
 
 Sie läuft im Browser z. B. auf Laptops oder Tablets.
 
-### Helfer-App für die Helfer
+## Helfer-App für die Helfer
 
 Mit der Helfer-App könen die Helfer die Ergebnisse der Teilnehmer offline direkt an den Stationen eintragen und dann am Ende der Veranstaltung hochladen.
 
 Sie läuft auf Apple und Android Smartphones oder auch Tablets.
 
-### Ablauf einer Veranstaltung
+## Ablauf einer Veranstaltung
 
 Eine Veranstaltung mit Bujus läuft in 3 Phasen ab:
 

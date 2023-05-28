@@ -6,7 +6,7 @@ import ReactPlayer from "react-player";
 
 # Helfer hinzufügen
 
-<!-- ## Video
+<!--
 
 <div className="video__wrapper">
   <ReactPlayer
@@ -27,11 +27,9 @@ import ReactPlayer from "react-player";
 </div>
 ­{" "} -->
 
-## Zusammenfassung
-
 Nachdem Sie eine Veranstaltung erstellt haben, können Sie nun die Helfer hinzufügen. Dies können Sie einzeln tun oder Sie importieren die Helfer aus einer CSV-Datei.
 
-### Helfer hinzufügen
+## Helfer hinzufügen
 
 1. Öffnen Sie die `Helfer-Übersicht`.
 2. Klicken Sie oben rechts auf `Hinzufügen`. Es öffnet sich ein Dialog.
@@ -39,7 +37,7 @@ Nachdem Sie eine Veranstaltung erstellt haben, können Sie nun die Helfer hinzuf
 4. Wenn sie möchten, können Sie selbst noch einen `Benutzernamen` und/oder ein `Passwort` eingeben. Ansonsten werden diese automatisch generiert.
 5. Klicken Sie unten rechts auf `Hinzufügen`.
 
-### Helfer bearbeiten
+## Helfer bearbeiten
 
 1. Gehen Sie zur `Helfer-Übersicht`.
 2. Suchen Sie den gewünschten Helfer in der Liste.
@@ -47,18 +45,18 @@ Nachdem Sie eine Veranstaltung erstellt haben, können Sie nun die Helfer hinzuf
 4. Nehmen Sie die gewünschten Änderungen vor.
 5. Klicken Sie auf unten rechts auf `Ändern`.
 
-### Helfer entfernen
+## Helfer entfernen
 
 1. Öffnen Sie die `Helfer-Übersicht`.
 2. Suchen Sie den gewünschten Helfer in der Liste.
 3. Klicken Sie in der rechten `Aktions-Spalte` auf `Entfernen`. Daraufhin öffnet sich ein Dialog.
 4. Bestätigen Sie mit `Entfernen`.
 
-### Helfer importieren
+## Helfer importieren
 
 Das Importieren von Helfern ist sehr ähnlich zum [Importieren von Teilnehmern](./teilnehmer-importieren.md).
 
-### Helfer Aktiv vs. Inaktiv
+## Helfer Aktiv vs. Inaktiv
 
 Helfer können grundsätzlich aktiv oder inaktiv sein.
 

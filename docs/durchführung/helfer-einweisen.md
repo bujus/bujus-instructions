@@ -6,7 +6,7 @@ import ReactPlayer from "react-player";
 
 # Helfer einweisen
 
-<!-- ## Video
+<!--
 
 <div className="video__wrapper">
   <ReactPlayer
@@ -27,8 +27,6 @@ import ReactPlayer from "react-player";
 </div>
 ­{" "} -->
 
-## Zusammenfassung
-
 Wenn der Tag der Bundesjugendspiele gekommen ist, müssen sich zu erst alle Helfer die Helfer-App auf ihren Smartphones herunterladen. Alternativ kann die App auch auf z. B. Schultablets heruntergeladen werden. Die Links zu den Downloadseiten finden Sie auf bujus.de.
 
 Zum Anmelden hat jeder Helfer eigenen Zugangsdaten, weswegen Sie jedem Helfer seine Zugangsdaten mitteilen müssen. Diese können Sie aber auch einfach ausdrucken und dann verteilen.
@@ -45,7 +43,7 @@ Wenn sich Helfer in der Helfer-App anmelden möchten, benötigen sie neben Benut
 
 :::
 
-### Zugangsdaten ausdrucken und verteilen
+## Zugangsdaten ausdrucken und verteilen
 
 1. Navigieren Sie zur `Helferübersicht`.
 2. Klicken Sie dann oben rechts auf `Zugangsdaten`.
@@ -54,23 +52,23 @@ Wenn sich Helfer in der Helfer-App anmelden möchten, benötigen sie neben Benut
 5. Schneiden Sie die Blätter dann an denen dafür vorgesehenen Linien auseinander.
 6. Jetzt können Sie die Schnipsel an die Helfer verteilen.
 
-### Veranstaltungsdaten erneut herunterladen
+## Veranstaltungsdaten erneut herunterladen
 
 TODO
 
-### Helfer-App
+## Helfer-App
 
 Mehr Informationen zur Helfer-App finden Sie in der Anleitung der
 
-### Alle Helfer aktivieren
+## Alle Helfer aktivieren
 
-#### Alle Helfer aktivieren/deaktivieren
+### Alle Helfer aktivieren/deaktivieren
 
 1. `Navigation` > `Helfer` auswählen.
 2. `Toolbar` > `Aktivieren` klicken.
 3. `Alle deaktivieren` oder `Alle aktivieren` klicken.
 
-#### Einzelne Helfer aktivieren/deaktivieren
+### Einzelne Helfer aktivieren/deaktivieren
 
 1. `Navigation` > `Helfer` auswählen.
 2. `Helfer` in der Übersicht suchen.

@@ -6,7 +6,7 @@ import ReactPlayer from "react-player";
 
 # Urkunden ausrichten
 
-<!-- ## Video
+<!--
 
 <div className="video__wrapper">
   <ReactPlayer
@@ -27,11 +27,9 @@ import ReactPlayer from "react-player";
 </div>
 ­{" "} -->
 
-## Zusammenfassung
-
 Jeder Drucker druckt etwas anderes, weswegen Sie, bevor Sie die Urkunden ausdrucken können, diese zuerst ausrichten müssen.
 
-### Drucker Tipps
+## Drucker Tipps
 
 Bevor Sie Urkunden Ausrichten und später dann Ausdrucken ist es wichtig, dass Sie Ihren Drucker richtig benutzen. Beachten Sie dazu diese Tipps:
 
@@ -56,7 +54,7 @@ Dies können Sie in der Druckeranleitung nachlesen oder wie folgt ausprobieren.
 
 :::
 
-### Software Tipps
+## Software Tipps
 
 Beim Ausdrucken, müssen Sie auch noch die Softwareseite beachten. Die folgenden Dinge können Sie im Druckdialog einstellen. Also dort, wo Sie z. B. auch die Anzahl der Exemplare einstellen oder zwischen Farbe und Schwarz-Weiß wechseln können.
 
@@ -64,27 +62,27 @@ Beim Ausdrucken, müssen Sie auch noch die Softwareseite beachten. Die folgenden
 2. Drucken Sie die Urkunden immer mit 100 % Skallierung aus.
 3. Wählen Sie den richtigen Einzug vom Drucker aus.
 
-### Urkunden-Papiergrößen
+## Urkunden-Papiergrößen
 
-#### Ehrenurkunden
+### Ehrenurkunden
 
 - Breite: 210 mm (21,0 cm)
 - Höhe: 298,25 mm (29,825 cm)
 
-#### Sieger- und Teilnehmerurkunden
+### Sieger- und Teilnehmerurkunden
 
 - Breite: 145,25 mm (14,525 cm)
 - Höhe: 210 mm (21,0 cm)
 
-### Urkundenvorlage einstellen
+## Urkundenvorlage einstellen
 
 Um die Urkunden auszurichten, gibt es in der Navigation von Bujus den Punkt `Urkundenvorlagen-Übersicht`. Dort finden Sie zu jedem der drei Urkundentypen eine Vorlage. Jede davon können Sie bearbeiten und dann Testurkunden ausdrucken. Dadurch können Sie durch Ausrpobieren die für Ihren Drucker perfekte Skalierung und Verschiebung finden.
 
 Führen Sie die folgenden Schritte für jeden Urkundentypen durch. Oft können Sie aber die Einstellungen von den Siegerurkunden aber auch für die Teilnehmerurkunden benutzen, da diese sich meist nur in der Farbe unterscheiden.
 
-#### Skalierung einstellen
+### Skalierung einstellen
 
-##### Skalierung durch Testen herausfinden
+#### Skalierung durch Testen herausfinden
 
 1. Navigieren Sie zu `Urkundenvorlagen-Übersicht`.
 2. Klicken Sie bei der gewünschten Urkundenvorlage auf `Test drucken`. Es öffnet sich ein PDF mit einer Testurkunde.
@@ -94,16 +92,16 @@ Führen Sie die folgenden Schritte für jeden Urkundentypen durch. Oft können S
 6. Messen Sie die Länge der Skalierungs-Hilflinie an der Seite der Urkunde. Diese sollte genau 10 cm lang sein. Wenn die Linie kürzer ist, vergrößern Sie den Aufdruck. Ist die Linie zu lang, verkleinern Sie ihn.
 7. Wiederholen Sie Schritt 1 bis 6 so lange, bis die Linie passt.
 
-##### Skalierung ändern
+#### Skalierung ändern
 
 1. Navigieren Sie zu `Urkundenvorlagen-Übersicht`.
 2. Klicken Sie bei der gwünschten Urkundenvorlage auf `Bearbeiten`. Daraufhin öffnet sich ein Dialog.
 3. Ziehen Sie den Schieberegler mit der Lupe auf den gewünschten Wert. Nach Links machen Sie den Ausdruck größer, nach Rechts verkleinern Sie ihn.
 4. Klicken Sie unten rechts auf `Ändern`.
 
-#### Verschiebung einstellen
+### Verschiebung einstellen
 
-##### Verschiebung durch Testen herausfinden
+#### Verschiebung durch Testen herausfinden
 
 1. Gehen Sie zu den `Urkundenvorlagen-Übersicht`.
 2. Klicken Sie bei der gewünschten Urkundenvorlage auf `Test drucken`. Dadurch öffnet sich ein PDF mit einer Testurkunde.
@@ -113,7 +111,7 @@ Führen Sie die folgenden Schritte für jeden Urkundentypen durch. Oft können S
 6. Messen Sie die Abstände der Verschiebungs-Hilflinien in den Ecken zu den Rändern der Urkunde. Dieser sollte überall genau 2 cm betragen. Wenn nicht, verschieben Sie den Aufdruck entsprechend.
 7. Wiederholen Sie die Schritt 1 bis 6 so lange, bis die Abstände passen.
 
-##### Verschiebung ändern
+#### Verschiebung ändern
 
 1. Navigieren Sie zu `Urkundenvorlagen-Übersicht`.
 2. Klicken Sie bei der gwünschten Urkundenvorlage auf `Bearbeiten`. Es öffnet sich ein Dialog.
@@ -126,7 +124,7 @@ Fangen Sie mit der Verschiebung erst an, wenn Sie die Skalierung fertig eingeste
 
 :::
 
-##### Einzelne Elemente verschieben
+#### Einzelne Elemente verschieben
 
 Wenn Sie die Urkunde ausgerichtet haben, aber z. B. der Name noch nicht an der richtigen Stelle ist, können Sie auch einzelne Elemente verschieben.
 

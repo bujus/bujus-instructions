@@ -6,7 +6,7 @@ import ReactPlayer from "react-player";
 
 # Account
 
-<!-- ## Video
+<!--
 
 <div className="video__wrapper">
   <ReactPlayer
@@ -27,11 +27,9 @@ import ReactPlayer from "react-player";
 </div>
 ­{" "} -->
 
-## Zusammenfassung
-
 Um Bujus zu benutzen, benötigen Sie als Organisator als erstes einen Account in der Schul-App.
 
-### Account erstellen
+## Account erstellen
 
 1. Öffnen Sie die Schul-App in Ihrem Browser ([https://school-app.bujus.de](https://school-app.bujus.de)).
 2. Klicken Sie unten rechts auf `Account erstellen`. Es öffnet sich die Registrierungsseite.
@@ -43,22 +41,22 @@ Um Bujus zu benutzen, benötigen Sie als Organisator als erstes einen Account in
 8. Klicken Sie in der Email auf `Email-Adresse bestätigen`. Dadurch öffnet sich erneut die Schul-App.
 9. Klicken Sie in der Schul-App auf `Email-Adresse bestätigen` klicken.
 
-<!-- ### Anmelden
+<!-- ## Anmelden
 
 TODO
 
-### Abmelden
+## Abmelden
 
 TODO
 
-### Passwort vergessen
+## Passwort vergessen
 
 TODO
 
-### Email-Adresse ändern
+## Email-Adresse ändern
 
 TODO
 
-### Account löschen
+## Account löschen
 
 TODO -->

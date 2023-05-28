@@ -6,7 +6,7 @@ import ReactPlayer from "react-player";
 
 # Veranstaltung erstellen
 
-<!-- ## Video
+<!--
 
 <div className="video__wrapper">
   <ReactPlayer
@@ -27,15 +27,13 @@ import ReactPlayer from "react-player";
 </div>
 ­{" "} -->
 
-## Zusammenfassung
-
 Um eine Veranstaltung mit Bujus durchzuführen, müssen Sie zunächst eine Veranstaltung erstellen.
 
-### Veranstaltung erstellen
+## Veranstaltung erstellen
 
 Bujus unterscheidet zwischen Test-Veranstaltungen und Echten-Veranstaltungen.
 
-#### Test-Veranstaltung
+### Test-Veranstaltung
 
 Mit einer Test-Veranstaltung können Sie alle Funktionen mit einer kleinen Anzahl an Helfern und Teilnehmern kostenlos ausprobieren.
 
@@ -46,7 +44,7 @@ Mit einer Test-Veranstaltung können Sie alle Funktionen mit einer kleinen Anzah
 5. Wählen Sie das `Startdatum` aus.
 6. Klicken Sie unten rechts auf `Erstellen`. Die neue Veranstaltung wird direkt im Dashboard ausgewählt.
 
-#### Echte-Veranstaltung
+### Echte-Veranstaltung
 
 Mit einer echten Veranstaltung können Sie eine Veranstaltung mit beliebig vielen Helfern und Teilnehmern durchführen.
 
@@ -72,6 +70,6 @@ Vorbereiten und Auswerten können Sie die Veranstaltung immer.
 
 :::
 
-<!-- ### Veranstaltung bearbeiten
+<!-- ## Veranstaltung bearbeiten
 
 TODO -->
