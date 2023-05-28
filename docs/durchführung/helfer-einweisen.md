@@ -31,7 +31,9 @@ Wenn der Tag der Bundesjugendspiele gekommen ist, müssen sich zu erst alle Helf
 
 Zum Anmelden hat jeder Helfer eigenen Zugangsdaten, weswegen Sie jedem Helfer seine Zugangsdaten mitteilen müssen. Diese können Sie aber auch einfach ausdrucken und dann verteilen.
 
-Damit die Helfer wissen, wie sie die Helfer-App zu benutzen haben, wird ihnen vor der ersten Anmeldung ein kurzes Anleitungsvideo gezeigt. TODO
+Damit die Helfer wissen, wie sie die Helfer-App zu benutzen haben, wird ihnen vor der ersten Anmeldung ein kurzes Anleitungsvideo gezeigt.
+
+<!-- TODO -->
 
 Wichtig ist, dass Sie die Helfer vor der Veranstaltung oder zumindest vor dem Hochladen der Ergebnisse aktivieren, sodass dise dies auch tun können. Nachdem alle Ergebnisse hochgeladen worden sind, können Sie wieder alle Helfer deaktivieren.
 
@@ -46,13 +48,14 @@ Wenn sich Helfer in der Helfer-App anmelden möchten, benötigen sie neben Benut
 ## Zugangsdaten ausdrucken und verteilen
 
 1. Navigieren Sie zur `Helferübersicht`.
-2. Klicken Sie dann oben rechts auf `Zugangsdaten`.
-3. Anschließend klicken Sie im sich geöffneten Dialog auf `Drucken`.
-4. Dadurch öffnet sich ein PDF, welches die Zugangsdaten enthält. Drucken Sie dieses aus.
-5. Schneiden Sie die Blätter dann an denen dafür vorgesehenen Linien auseinander.
-6. Jetzt können Sie die Schnipsel an die Helfer verteilen.
+2. Klicken Sie oben rechts auf `Zugangsdaten`. Es öffnet sich ein Dialog.
+3. Klicken Sie auf `Drucken`. Dadurch öffnet sich ein PDF, welches die Zugangsdaten enthält.
+4. Laden Sie sich das PDF herunter.
+5. Drucken Sie das PDF aus.
+6. Schneiden Sie die Zettel an den dafür vorgesehenen Linien auseinander.
+7. Verteilen Sie die Schnipsel an die Helfer.
 
-## Veranstaltungsdaten erneut herunterladen
+<!-- ## Veranstaltungsdaten erneut herunterladen
 
 TODO
 
@@ -60,18 +63,22 @@ TODO
 
 Mehr Informationen zur Helfer-App finden Sie in der Anleitung der
 
+TODO 
+
+-->
+
 ## Alle Helfer aktivieren
 
 ### Alle Helfer aktivieren/deaktivieren
 
-1. `Navigation` > `Helfer` auswählen.
-2. `Toolbar` > `Aktivieren` klicken.
-3. `Alle deaktivieren` oder `Alle aktivieren` klicken.
+1. Navigieren Sie zur `Helfer-Übersicht`.
+2. Klicken Sie oben rechts auf `Aktivieren`. Dadruch öffnet sich ein Dialog.
+3. Wählen Sie zwischen `Alle deaktivieren` oder `Alle aktivieren`.
 
 ### Einzelne Helfer aktivieren/deaktivieren
 
-1. `Navigation` > `Helfer` auswählen.
-2. `Helfer` in der Übersicht suchen.
-3. Rechte Spalte `Aktionen` > `Bearbeiten` klicken.
-4. `Aktiv` aktivieren/deaktivieren.
-5. `Ändern` klicken.
+1. Gehen Sie zur `Helfer-Übersicht`.
+2. Suchen Sie den gewünschten `Helfer` in der Liste.
+3. Klicken Sie in der rechte `Aktions-Spalte` auf `Bearbeiten`. Daraufhin öffnet sich ein Dialog.
+4. Aktivieren oder deaktivieren Sie die `Aktiv-Checkbox`.
+5. Klicken Sie unten rechts auf `Ändern`.
