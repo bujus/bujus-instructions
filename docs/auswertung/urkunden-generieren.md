@@ -6,7 +6,7 @@ import ReactPlayer from "react-player";
 
 # Urkunden generieren
 
-## Video
+<!-- ## Video
 
 <div className="video__wrapper">
   <ReactPlayer
@@ -25,23 +25,35 @@ import ReactPlayer from "react-player";
     width="100%"
   />
 </div>
-­{" "}
+­{" "} -->
 
 ## Zusammenfassung
 
-Wenn alle Ergebnisse korrekt eingetragen sind, können Sie die Urkunden generieren. Dabei kann es passieren, dass für manche Teilnehmer keine Urkunden generiert werden kann. Dies liegt dann daran, dass diesen Teilnehmern noch Ergebnisse fehlen. Um solche Fehler zu behe
+Wenn alle Ergebnisse eingetragen sind, können Sie die Urkunden generieren.
 
 ### Urkunden generieren
 
 1. Navigieren Sie zur `Urkunden-Übersicht`.
-2. Klicken Sie oben rechts auf `Generieren`.
-3. Drücken Sie dann im Dialog nochmal auf `Drucken`.
+2. Klicken Sie oben rechts auf `Generieren`. Es öffnet sich ein Dialog.
+3. Klicken Sie auf `Generieren`.
 
-### Nicht generierbare Urkunden beheben
+:::tip
 
-TODO Bad
+**Wieso aktualisieren sich die Urkunden nicht, wenn ich Ergebnisse ändere?**
 
-1. Nachdem Sie die Urkunden generiert haben, können Sie in der `Urkunden-Übersicht` ganz oben rechts auf `Nicht generierte Urkunden` klicken.
-2. In den letzten vier Spalten sehen Sie, welche Punktzahlen für die einzelnen Kategorien generiert wurden. Es muss mindestens ein Ergebnis in mindestens drei Kategorien eingetragen sein, damit eine Urkunde generiert werden kann.
-3. Bei den nicht generierten Urkunden fehlen dann 1 bis 3 Ergebnisse. Um diese Urkunden zu generieren, müssen Sie die fehlenden Ergebnisse nachtragen.
-4. Dazu können Sie einfach in der `Ergebnis-Übersicht` Ergebnisse nachtragen. Wenn Sie die Ergebnisse nachgetragen haben, können Sie die Urkunden erneut generieren.
+Wenn Sie die Ergebnisse ändern, werden die Urkunden nicht automatisch aktualisiert. Sie müssen die Urkunden immer erneut generieren.
+
+:::
+
+### Nicht generierbare Urkunden ansehen
+
+Manchmal kann für einige Teilnehmer keine Urkunde generiert werden. Dies liegt dann daran, dass diesen Teilnehmern noch Ergebnisse fehlen, ohne die keine Auswertung statt finden kann.
+
+1. Navigieren Sie zur `Urkunden-Übersicht`.
+2. Klicken Sie oben rechts auf `Generieren`. Es öffnet sich ein Dialog.
+3. Klicken Sie auf `Generieren`.
+4. Klicken Sie ganz oben rechts auf den Tab `Nicht generierte Urkunden`. Dort sehen Sie, welche Urkunden nicht generiert werden konnten und welche Ergebnisse für diese schon erbracht wurden und welche noch fehlen.
+
+### Nicht generierte Urkunden beheben
+
+Um nicht generierte Urkunden zu beheben, müssen Sie die fehlenden Ergebnisse nachtragen und die Urkunden dann erneut generieren.

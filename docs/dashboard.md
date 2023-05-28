@@ -37,7 +37,7 @@ Oben rechts in der Ecke sehen Sie, welche Veranstaltung aktuell ausgewählt ist.
 
 Rechts daneben finden Sie das Account-Menü. Hier können Sie sich bei Bedarf abmelden.
 
-An der linken Seite finden Sie die Navigation. Der obere Bereich dieser ist für die Verwaltung der aktuell ausgewählten Veranstaltung - Wenn Sie noch keine Veranstaltung erstellt haben ist dieser Bereich noch ausgegraut. Im unteren Bereich können Sie Ihren Account verwalten.
+An der linken Seite finden Sie die Navigation. Der obere Bereich dieser ist für die Verwaltung der aktuell ausgewählten Veranstaltung. Wenn Sie noch keine Veranstaltung erstellt haben ist dieser Bereich noch ausgegraut. Im unteren Bereich können Sie Ihren Account verwalten.
 
 ### Veranstaltung auswählen
 
@@ -47,13 +47,13 @@ Wenn Sie mehrer Veranstaltung erstellt haben, haben Sie zwei Möglichkeiten eine
 
 <!-- TODO Bild -->
 
-1. Oben rechts auf die aktuell ausgewählte Veranstaltung klicken.
-2. Dann die gewünschte Veranstaltung aus der Liste auswählen. Hier werden allerdings nur die 5 neusten Veranstaltungen angezeigt.
+1. Klicken Sie oben rechts auf die aktuell ausgewählte Veranstaltung. Es öffnet sich ein Dialog.
+2. Klicken Sie in der Liste auf die gewünschte Veranstaltung. In der Liste werden allerdings nur die fünf neusten Veranstaltungen angezeigt.
 
 #### 2. Über die Veranstaltungs-Übersicht
 
 <!-- TODO Bild -->
 
-1. Gehen Sie über die Navigation zur Veranstaltungs-Übersicht.
+1. Gehen Sie über die Navigation zur `Veranstaltungs-Übersicht`.
 2. Suchen Sie die gewünschte Veranstaltung in der Liste.
-3. Klicken Sie bei der Veranstaltung in der rechten Spalte auf die Checkbox.
+3. Klicken Sie bei der Veranstaltung in der ganz rechten `Auswählen-Spalte` auf die Checkbox.
