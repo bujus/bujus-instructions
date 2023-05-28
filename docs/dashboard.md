@@ -56,4 +56,4 @@ Wenn Sie mehrer Veranstaltung erstellt haben, haben Sie zwei Möglichkeiten eine
 
 1. Gehen Sie über die Navigation zur `Veranstaltungs-Übersicht`.
 2. Suchen Sie die gewünschte Veranstaltung in der Liste.
-3. Klicken Sie bei der Veranstaltung in der ganz rechten `Auswählen-Spalte` auf die Checkbox.
+3. Klicken Sie bei der Veranstaltung in der rechten `Auswählen-Spalte` auf die Checkbox.

@@ -97,7 +97,7 @@ Führen Sie die folgenden Schritte für jeden Urkundentypen durch. Oft können S
 ##### Skalierung ändern
 
 1. Navigieren Sie zu `Urkundenvorlagen-Übersicht`.
-2. Klicken Sie bei der gwünschten Urkundenvorlage auf `Bearbeiten`. Dadurch öffnet sich ein Dialog.
+2. Klicken Sie bei der gwünschten Urkundenvorlage auf `Bearbeiten`. Daraufhin öffnet sich ein Dialog.
 3. Ziehen Sie den Schieberegler mit der Lupe auf den gewünschten Wert. Nach Links machen Sie den Ausdruck größer, nach Rechts verkleinern Sie ihn.
 4. Klicken Sie unten rechts auf `Ändern`.
 

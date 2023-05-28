@@ -29,23 +29,23 @@ import ReactPlayer from "react-player";
 
 ## Zusammenfassung
 
-Während die Bundesjugendspiele laufen tragen die Helfer die Ergebnisse der Teilnehmer offline direkt an den Stationen in die Helfer-App ein.
+Während die Bundesjugendspiele laufen, tragen die Helfer die Ergebnisse der Teilnehmer offline direkt an den Stationen in die Helfer-App ein.
 
-Am Ende der Veranstaltung wenn alle Ergebnisse eingetragen worden sind, laden die Helfer die Ergebnisse hoch (Es ist durchaus möglich, dass Helfer die Ergebnisse auch schon während der Veranstaltung mal hochladen). Danach können Sie die Ergebnisse auch in der Schul-App einsehen und auch selbst noch bearbeiten.
+Am Ende der Veranstaltung wenn alle Ergebnisse eingetragen worden sind, laden die Helfer die Ergebnisse hoch. Es ist auch möglich, dass Helfer die Ergebnisse auch schon während der Veranstaltung mal hochladen. Danach können Sie die Ergebnisse auch in der Schul-App einsehen und auch selbst noch bearbeiten.
 
 ### Ergebnisse eintragen
 
 1. Navigieren Sie zur `Ergebnis-Übersicht`.
-2. Klicken Sie dann oben rechts auf `Eintragen`.
-3. Wählen Sie im Dialog den `Teilnehmer` aus.
-4. Wählen Sie jetzt die `Disziplin` aus.
-5. Geben Sie danach den `Wert` des Ergebnisses ein.
+2. Klicken Sie oben rechts auf `Eintragen`. Daraufhin öffnet sich ein Dialog
+3. Wählen Sie den `Teilnehmer` aus.
+4. Wählen Sie danach die `Disziplin` aus.
+5. Geben Sie dann den `Wert` des Ergebnisses ein.
 6. Optional können Sie oben noch einen `Helfer` auswählen, der dann für das Ergebnis verantwortlich ist. Bei diesem taucht das Ergebnis dann auch in seiner Helfer-App bei den hochgeladenen Ergebnissen auf.
 7. Klicken Sie unten rechts auf `Eintragen`.
 
 :::tip
 
-**Wie funktioniert die Auswahl von Helfer, Teilnehmer und Disziplin.?**
+**Wie funktioniert die Auswahl von Helfer, Teilnehmer und Disziplin?**
 
 Die Auswahl von Helfer, Teilnehmer und Disziplin ist vielleicht nicht ganz selbsterklärend. Gehen Sie wie folgt vor:
 
@@ -59,13 +59,13 @@ Die Auswahl von Helfer, Teilnehmer und Disziplin ist vielleicht nicht ganz selbs
 
 1. Navigieren Sie zur `Ergebnis-Übersicht`.
 2. Suchen Sie das gewünschte Ergebnis in der Liste.
-3. Klicken Sie in der rechten Aktions-Spalte auf `Bearbeiten`.
-4. Ändern Sie das Ergebnis im Dialog nach Ihren Wünschen ab.
-5. Wenn Sie fertig sind, klicken Sie auf `Ändern`.
+3. Klicken Sie in der rechten `Aktions-Spalte` auf `Bearbeiten`. Es öffnet sich ein Dialog.
+4. Nehmen Sie die gewünschten Änderungen vor.
+5. Klicken Sie unten rechts auf `Ändern`.
 
 ### Ergebnisse löschen
 
 1. Navigieren Sie zur `Ergebnis-Übersicht`.
 2. Suchen Sie das gewünschte Ergebnis in der Liste.
-3. Klicken Sie in der rechten Aktions-Spalte auf `Entfernen`.
-4. Bestätigen Sie das Löschen des Ergebnisses in dem Bestätigungs-Dialog.
+3. Klicken Sie in der rechten `Aktions-Spalte` auf `Entfernen`. Daraufhin öffnet sich ein Dialog.
+4. Bestätigen Sie mit `Entfernen`.

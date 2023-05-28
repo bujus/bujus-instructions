@@ -34,29 +34,29 @@ Nachdem Sie eine Veranstaltung erstellt haben, können Sie nun die Helfer hinzuf
 ### Helfer hinzufügen
 
 1. Öffnen Sie die `Helfer-Übersicht`.
-2. Klicken Sie in der Toolbar auf `Hinzufügen`. Es öffnet sich ein Dialog.
+2. Klicken Sie oben rechts auf `Hinzufügen`. Es öffnet sich ein Dialog.
 3. Geben Sie den `Namen` des Helfers an.
 4. Wenn sie möchten, können Sie selbst noch einen `Benutzernamen` und/oder ein `Passwort` eingeben. Ansonsten werden diese automatisch generiert.
-5. Klicken Sie unten auf `Hinzufügen`.
+5. Klicken Sie unten rechts auf `Hinzufügen`.
 
 ### Helfer bearbeiten
 
 1. Gehen Sie zur `Helfer-Übersicht`.
-2. Suchen Sie den gewünschten Helfer aus der Liste.
+2. Suchen Sie den gewünschten Helfer in der Liste.
 3. Klicken Sie in der rechten `Aktions-Spalte` auf `Bearbeiten`. Dadurch öffnet sich ein Dialog.
-4. Nehmen Sie die gewünschten Änderungen im Dialog vor.
-5. Klicken Sie unten rechts auf `Ändern`.
+4. Nehmen Sie die gewünschten Änderungen vor.
+5. Klicken Sie auf unten rechts auf `Ändern`.
 
 ### Helfer entfernen
 
 1. Öffnen Sie die `Helfer-Übersicht`.
 2. Suchen Sie den gewünschten Helfer in der Liste.
-3. Klicken Sie in der rechten `Aktions-Spalte` auf `Entfernen`. Dadurch öffnet sich ein Bestätigungs-Dialog.
-4. Bestätigen Sie, indem Sie unten rechts auf `Entfernen` klicken.
+3. Klicken Sie in der rechten `Aktions-Spalte` auf `Entfernen`. Daraufhin öffnet sich ein Dialog.
+4. Bestätigen Sie mit `Entfernen`.
 
 ### Helfer importieren
 
-Das Importieren von Helfern ist sehr ähnlich zum Importieren von Teilnehmern. Schauen Sie dort gerne, wie es funktioniert: [Teilnehmer importieren](./teilnehmer-importieren.md#teilnehmer-importieren) TODO
+Das Importieren von Helfern ist sehr ähnlich zum [Importieren von Teilnehmern](./teilnehmer-importieren.md).
 
 ### Aktiv vs. Inaktiv
 
@@ -64,4 +64,4 @@ Helfer können grundsätzlich aktiv oder inaktiv sein.
 
 Unabhängig davon, können sich Helfer immer in der Helfer-app einloggen und Ergebnisse lokal eintragen. Inaktive Helfer können dann aber keine Ergebnisse hochladen und auch keine hochgeladene Ergebnisse ansehen, bearbeiten oder entfernen.
 
-Damit die Helfer nicht an den Ergebnissen rumfuschen können, aktivieren Sie sie am besten nur währen der Durchführung der Veranstaltung. Wie Sie sie aktivieren bzw. deaktivieren lernen Sie in einem der nächsten Schritte ([Helfer einweisen - Helfer aktivieren/deaktivieren](../durchf%C3%BChrung/helfer-einweisen.md#alle-helfer-aktivieren)). TODO
+Damit die Helfer nicht an den Ergebnissen rumfuschen können, aktivieren Sie sie am besten nur währen der Durchführung der Veranstaltung. Wie Sie sie aktivieren bzw. deaktivieren lernen Sie im Schritte [Helfer einweisen](../durchf%C3%BChrung/helfer-einweisen.md).

@@ -34,16 +34,18 @@ Nachdem Sie die Helfer hinzugefügt haben, sollten Sie jetzt die Teilnehmer impo
 ### Teilnehmer hinzufügen
 
 1. Gehen Sie über die Navigation zur `Teilnehmer-Übersicht`.
-2. Klicken Sie oben rechts auf `Hinzufügen`. Darauf öffnet sich ein Fenster.
-3. Geben Sie `Vorname`, `Nachname`, `Geschlecht` und `Geburtsjahr` an. 
-4. Optional können Sie noch die Schulinterne ID und/oder Klasse des Teilnehmers angeben (Um z. B. Namensgleichheiten vorzubeugen).
-5. Klicken Sie auf `Hinzufügen`.
+2. Klicken Sie oben rechts auf `Hinzufügen`. Daraufhin öffnet sich ein Dialog.
+3. Geben Sie `Vorname` und `Nachname` ein.
+4. Wählen Sie das `Geschlecht` aus.
+5. Geben Sie das `Geburtsjahr` ein.
+6. Optional können Sie noch die Schulinterne ID und/oder Klasse angeben (Um z. B. Namensgleichheiten vorzubeugen).
+7. Klicken Sie unten rechts auf `Hinzufügen`.
 
 :::info
 
 **Wie alt dürfen Teilnehmer sein?**
 
-Wichtig ist, dass die Teilnehmer nur zwischen inkl. 8 und inkl. 25 Jahre alt sein dürfen. Für das Jahr 2023 berechnen sich daraus z. B. die Geburtsjahre 2015 bis 1998.
+Teilnehmer dürfen nur zwischen inkl. 8 und inkl. 25 Jahre alt sein dürfen. Für das Jahr 2023 berechnen sich daraus z. B. die Geburtsjahre von 1998 bis 2015.
 
 :::
 
@@ -51,6 +53,10 @@ Wichtig ist, dass die Teilnehmer nur zwischen inkl. 8 und inkl. 25 Jahre alt sei
 
 1. Öffnen Sie die `Teilnehmer-Übersicht`.
 2. Klicken Sie oben rechts auf `Importieren` um den Import-Dialog zu öffnen.
+
+#### Schritt 1: CSV-Datei vorbereiten
+
+1. 
 
 #### Schritt 1: CSV-Datei hochladen
 
@@ -69,6 +75,12 @@ Wichtig ist, dass die Teilnehmer nur zwischen inkl. 8 und inkl. 25 Jahre alt sei
 3. Wenn Sie Ihre Daten beisammen haben, klicken Sie in Bujus auf `CSV-Datei auswählen`.
 4. Wählen Sie dann Ihre Datei aus.
 5. Danach klicken Sie auf `Weiter`.
+
+:::tip
+
+Wie exportiere ich eine CSV-Datei aus Excel?
+
+:::
 
 #### Schritt 2: Datei einstellen
 

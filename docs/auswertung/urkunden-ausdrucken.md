@@ -62,7 +62,7 @@ In diesen Anleitungen können Sie nachlesen, wie Sie dies in Ihrem Browser einst
 
 1. Gehen Sie zur `Urkundenübersicht`.
 2. Suchen Sie die gewünschte Urkunde heraus.
-3. Klicken Sie bei der Urkunde in der ganz rechten `Aktions-Spalte` auf `Drucken`. Es öffnet sich ein Dialog.
+3. Klicken Sie bei der Urkunde in der rechten `Aktions-Spalte` auf `Drucken`. Daraufhin öffnet sich ein Dialog.
 4. Bestätigen Sie mit `Drucken`. Es öffnet sich ein PDF mit der Urkunde.
 5. Laden Sie das PDF herunter.
 6. Legen Sie das passende Urkundenpapier in Ihren Drucker ein.
