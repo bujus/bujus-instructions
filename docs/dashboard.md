@@ -27,6 +27,8 @@ import ReactPlayer from "react-player";
 </div>
 ­{" "} -->
 
+## Einleitung
+
 Wenn Sie sich mit Ihrem Account angemeldet haben, kommen Sie auf das Schul-App Dashboard.
 
 <!-- TODO Bild -->

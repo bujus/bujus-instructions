@@ -27,6 +27,8 @@ import ReactPlayer from "react-player";
 </div>
 ­{" "} -->
 
+## Einleitung
+
 Jeder Drucker druckt etwas anderes, weswegen Sie, bevor Sie die Urkunden ausdrucken können, diese zuerst ausrichten müssen.
 
 ## Drucker Tipps

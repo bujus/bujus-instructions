@@ -27,6 +27,8 @@ import ReactPlayer from "react-player";
 </div>
 ­{" "} -->
 
+## Einleitung
+
 Wenn alle Ergebnisse eingetragen sind, können Sie die Urkunden generieren.
 
 ## Urkunden generieren

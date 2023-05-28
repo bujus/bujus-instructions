@@ -27,6 +27,8 @@ import ReactPlayer from "react-player";
 </div>
 ­{" "} -->
 
+## Einleitung
+
 Während die Bundesjugendspiele laufen, tragen die Helfer die Ergebnisse der Teilnehmer offline direkt an den Stationen in die Helfer-App ein.
 
 Am Ende der Veranstaltung wenn alle Ergebnisse eingetragen worden sind, laden die Helfer die Ergebnisse hoch. Es ist auch möglich, dass Helfer die Ergebnisse auch schon während der Veranstaltung mal hochladen. Danach können Sie die Ergebnisse auch in der Schul-App einsehen und auch selbst noch bearbeiten.

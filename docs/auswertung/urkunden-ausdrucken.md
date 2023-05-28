@@ -27,6 +27,8 @@ import ReactPlayer from "react-player";
 </div>
 ­{" "} -->
 
+## Einleitung
+
 Nachdem Sie die Urkunden generiert haben und den Druck vorbereitet haben, können Sie nun die Urkunden ausdrucken.
   
 ## Alle ausdrucken

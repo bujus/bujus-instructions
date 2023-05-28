@@ -27,6 +27,8 @@ import ReactPlayer from "react-player";
 </div>
 ­{" "} -->
 
+## Einleitung
+
 Nachdem Sie eine Veranstaltung erstellt haben, können Sie nun die Helfer hinzufügen. Dies können Sie einzeln tun oder Sie importieren die Helfer aus einer CSV-Datei.
 
 ## Helfer hinzufügen

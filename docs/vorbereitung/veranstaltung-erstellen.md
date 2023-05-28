@@ -27,6 +27,8 @@ import ReactPlayer from "react-player";
 </div>
 ­{" "} -->
 
+## Einleitung
+
 Um eine Veranstaltung mit Bujus durchzuführen, müssen Sie zunächst eine Veranstaltung erstellen.
 
 ## Veranstaltung erstellen

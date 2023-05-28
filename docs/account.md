@@ -27,6 +27,8 @@ import ReactPlayer from "react-player";
 </div>
 ­{" "} -->
 
+## Einleitung
+
 Um Bujus zu benutzen, benötigen Sie als Organisator als erstes einen Account in der Schul-App.
 
 ## Account erstellen

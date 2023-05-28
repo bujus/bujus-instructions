@@ -27,6 +27,8 @@ import ReactPlayer from "react-player";
 </div>
 ­{" "} -->
 
+## Einleitung
+
 Wenn der Tag der Bundesjugendspiele gekommen ist, müssen sich zu erst alle Helfer die Helfer-App auf ihren Smartphones herunterladen. Alternativ kann die App auch auf z. B. Schultablets heruntergeladen werden. Die Links zu den Downloadseiten finden Sie auf bujus.de.
 
 Zum Anmelden hat jeder Helfer eigenen Zugangsdaten, weswegen Sie jedem Helfer seine Zugangsdaten mitteilen müssen. Diese können Sie aber auch einfach ausdrucken und dann verteilen.
