@@ -52,35 +52,54 @@ Teilnehmer dürfen nur zwischen inkl. 8 und inkl. 25 Jahre alt sein dürfen. Fü
 ### Teilnehmer importieren
 
 1. Öffnen Sie die `Teilnehmer-Übersicht`.
-2. Klicken Sie oben rechts auf `Importieren` um den Import-Dialog zu öffnen.
+2. Klicken Sie oben rechts auf `Importieren`. Es öffnet sich ein Dialog.
 
-#### Schritt 1: CSV-Datei vorbereiten
+#### 1. CSV-Datei vorbereiten
 
-1. 
+Als erstes müssen Sie eien CSV-Datei mit den benötigten Daten vorbereiten.
 
-#### Schritt 1: CSV-Datei hochladen
+Wenn Sie diese selbst in Excel erstellen möchten, können Sie sich die Importhilfe herunterladen. Klicken Sie dazu oben links auf `Importhilfe herunterladen`. Diese können sie dann mit Excel öffnen und dann Ihre Schülerdaten in die entsprechenden Spalten reinschreiben oder hineinkopieren.
 
-1. Als erstes haben Sie die Möglichkeit über den Link `Importhilfe herunterladen` eine Importhilfe herunterzuladen. Diese können Sie dann mit Excel öffnen und dann Ihre Schülerdaten in die entsprechenden Spalten reinschreiben oder hineinkopieren.
-    - Die folgenden Spalten werden auf jeden Fall benötigt:
-      - Vorname
-      - Nachname
-      - Geschlecht
-          - Das Geschlecht muss einfach nur mit m für männlich anfangen oder mit w oder f für weiblich. Groß- und Kleinschreibung spielen dabei keine Rolle.
-      - Geburtsjahr
-          - Das Geburtsjahr kann in verschiedenen Formaten angegeben werden. TODO
-  - Diese Spalten sind optional:
-      - Schulinterne ID
-      - Klasse
-2. Der normale Weg ist aber, dass Sie zunächst die Schülerdaten aus Ihrer Schülerverwaltungssoftware als CSV-Datei exportieren und dann in die Importhilfe hineinkopieren oder direkt als CSV-Datei hochladen
-3. Wenn Sie Ihre Daten beisammen haben, klicken Sie in Bujus auf `CSV-Datei auswählen`.
-4. Wählen Sie dann Ihre Datei aus.
-5. Danach klicken Sie auf `Weiter`.
+Der normale Weg ist allerdings, dass Sie die Schülerdaten einfach nur aus Ihrer Schülerverwaltungssoftware als CSV-Datei exportieren.
 
 :::tip
 
-Wie exportiere ich eine CSV-Datei aus Excel?
+**Wie exportiere ich die Schülerdaten aus meiner Schülerverwaltungssoftware?**
+
+Das ist von Schülerverwaltungssoftware zu Schülerverwaltungssoftware unterschiedlich. In den meisten Fällen gibt es aber eine Export-Funktion bei der Sie dann auch noch einstellen können, welche Daten Sie exportieren möchten und in welchem Format diese sein sollen.
+
+Wenn Sie bei diesem Schritt hilfe benötigen, wenden Sie sich z. B. an den Verantwortlichen an Ihrer Schule oder an den [Bujus-Support](https://bujus.de#contact-section).
 
 :::
+
+##### Benötigte Spalten in der CSV-Datei
+
+Eine CSV-Datei ist eigentlich nur ein universelleres Format einer Exceltabelle. Sie können also auch eine Exceltabelle als CSV-Datei exportieren.
+
+Diese Spalten müssen in der CSV-Datei in beliebiger Reihenfolge vorhanden sein:
+
+- Vorname
+- Nachname
+- Geschlecht
+  - Das Geschlecht muss einfach nur mit m für männlich oder mit w oder f für weiblich anfangen. Groß- und Kleinschreibung spielen dabei keine Rolle.
+- Geburtsjahr
+  - Das Geburtsjahr kann als Zahl oder als Geburtsdatum in diesen Formaten angegeben werden:
+    - yyyy (z. B. 2015)
+    - dd.mm.yyyy (z. B. 13.01.2015 oder auch 13.1.2015)
+    - mm/dd/yyyy (z. B. 01/13/2015 oder auch 1/13/2015)
+    - yyyy-mm-dd (z. B. 2015-01-13 oder auch 2015-1-13)
+  - Das Jahr muss immer 4-stellig sein. Tag und Monat können 1- oder 2-stellig sein.
+
+Diese Spalten sind optional:
+
+- Schulinterne ID
+- Klasse
+
+#### 2. CSV-Datei hochladen
+
+1. Klicken Sie im Import-Dialog auf `CSV-Datei auswählen`.
+2. Wählen Sie Ihre Datei aus.
+3. Klicken Sie unten rechts auf `Weiter`.
 
 #### Schritt 2: Datei einstellen
 

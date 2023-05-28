@@ -113,7 +113,7 @@ Führen Sie die folgenden Schritte für jeden Urkundentypen durch. Oft können S
 6. Messen Sie die Abstände der Verschiebungs-Hilflinien in den Ecken zu den Rändern der Urkunde. Dieser sollte überall genau 2 cm betragen. Wenn nicht, verschieben Sie den Aufdruck entsprechend.
 7. Wiederholen Sie die Schritt 1 bis 6 so lange, bis die Abstände passen.
 
-##### Ausrichtung ändern
+##### Verschiebung ändern
 
 1. Navigieren Sie zu `Urkundenvorlagen-Übersicht`.
 2. Klicken Sie bei der gwünschten Urkundenvorlage auf `Bearbeiten`. Es öffnet sich ein Dialog.
@@ -131,7 +131,7 @@ Fangen Sie mit der Verschiebung erst an, wenn Sie die Skalierung fertig eingeste
 Wenn Sie die Urkunde ausgerichtet haben, aber z. B. der Name noch nicht an der richtigen Stelle ist, können Sie auch einzelne Elemente verschieben.
 
 1. Navigieren Sie zu den `Urkundenvorlagen-Übersicht`.
-2. Klicken Sie bei der gewünschten Urkundenvorlage auf `Bearbeiten`.
+2. Klicken Sie bei der gewünschten Urkundenvorlage auf `Bearbeiten`. Es öffnet sich ein Dialog.
 3. Klicken Sie auf `Standard Elemente`. Dadurch werden die Einstellungen zu den einzelnen Elementen angezeigt.
 4. Verschieben Sie das gewünschte Element.
 5. Klicken Sie unten rechts auf `Ändern`.

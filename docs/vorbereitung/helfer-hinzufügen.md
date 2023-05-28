@@ -58,7 +58,7 @@ Nachdem Sie eine Veranstaltung erstellt haben, können Sie nun die Helfer hinzuf
 
 Das Importieren von Helfern ist sehr ähnlich zum [Importieren von Teilnehmern](./teilnehmer-importieren.md).
 
-### Aktiv vs. Inaktiv
+### Helfer Aktiv vs. Inaktiv
 
 Helfer können grundsätzlich aktiv oder inaktiv sein.
 
