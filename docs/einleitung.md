@@ -13,7 +13,7 @@ Ich möchte Sie auch dazu einladen, direkt mitzumachen und so alles selbst einma
 
 Unter jedem Video finden Sie auch immer eine Zusammenfassung, sodass Sie sich einmal das Video anschauen können und dann bei Bedarf nochmal nachlesen können.
 
-# Video
+## Video
 
 <div className="video__wrapper">
   <ReactPlayer
