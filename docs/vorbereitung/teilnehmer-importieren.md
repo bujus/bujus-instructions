@@ -88,7 +88,7 @@ Diese Spalten müssen in der CSV-Datei in beliebiger Reihenfolge vorhanden sein:
     - dd.mm.yyyy (z. B. 13.01.2015 oder auch 13.1.2015)
     - mm/dd/yyyy (z. B. 01/13/2015 oder auch 1/13/2015)
     - yyyy-mm-dd (z. B. 2015-01-13 oder auch 2015-1-13)
-  - Das Jahr muss immer 4-stellig sein. Tag und Monat können 1- oder 2-stellig sein.
+  - Das Jahr muss immer 4-stellig sein. Tag und Monat können ein- oder zweistellig sein.
 
 Diese Spalten sind optional:
 
@@ -133,11 +133,11 @@ Wenn Sie alles eingestellt haben, klicken Sie unten rechts auf `Importieren`.
 
 Wenn Sie die Importhilfe nicht genutzt haben, müssen Sie wahrscheinlich alle Spalten neu zuordnen.
 
-Dazu finden Sie oberhalb der Checkboxen und Dropdowns eine Vorschau Ihrer Datei in Form einer Tabelle. Dabei sind in der ersten Zeile die Spalten durchnummeriert (Spalte 1, Spalte 2, etc.). Dadrunter sehen Sie die Daten aus Ihrer Datei.
+Dazu finden Sie oberhalb der Checkboxen und Dropdowns eine Vorschau Ihrer Datei in Form einer Tabelle. Dabei sind in der ersten Zeile die Spalten durchnummeriert (Spalte 1, Spalte 2, etc.). Dadrunter sehen Sie Daten aus Ihrer Datei.
 
 Unter der Vorschaue Ihrer Datei finden Sie die Einstellungsmöglichkeiten. Hier können Sie auswählen, in welcher Spalte welche Daten sind. Wenn Sie oben in der Vorschau z. B. sehen, dass der Vorname in Ihrer Datei in Spalte 1 ist, müssen Sie bei den Einstellungen in dem Dropdown für Vorname die Spalte 1 auswählen. Tun Sie dies für alle benötigten Daten.
 
-Unter den Einstellungsmöglichkeiten finden Sie eine Vorschaue der Teilnehmer. In dieser Tabell können Sie kontrollieren, ob Sie die Daten richtig zugeordnet haben. In der ersten Zeile sind die Felder benannt (Schulinterne ID, Vorname, etc.) In den Zeilen dadrunter werden die zugeordneten Daten aus Ihrer Datei angezeigt.
+Unter den Einstellungsmöglichkeiten finden Sie eine Vorschaue der Teilnehmer. In dieser Tabell können Sie kontrollieren, ob Sie Ihre Daten richtig zugeordnet haben. In der ersten Zeile sind die Felder benannt (Schulinterne ID, Vorname, etc.) In den Zeilen dadrunter werden die zugeordneten Daten aus Ihrer Datei angezeigt. Hier sollten nach der Zuordnung also z. B. nur Schulinterne IDs in der Spalte für Schulinterne IDs stehen, nur Vornamen in der Spalte für Vornamen, etc.
 
 Standardmäßig ist der Import der Schulinternen ID und der Klasse deaktiviert. Sollten Sie diese auch importieren wollen, müssen Sie die entsprechenden Checkboxen aktivieren und dann in den Dropdowns die Spalten auswählen.
 
@@ -152,7 +152,7 @@ Manchmal bekommen Sie beim Importieren Validierungsfehler. Diese werden Ihnen in
 3. Welchen Wert Sie importieren wollten.
 4. Was mit dem Wert nicht stimmt.
 
-Wenn Sie Validierungsfehler bekommen, müssen Sie die Daten in Ihrer CSV-Datei korrigieren und dann erneut importieren.
+Wenn Sie Validierungsfehler bekommen, müssen Sie die Daten in Ihrer CSV-Datei (z. B. wieder mit Excel) korrigieren und dann erneut importieren.
 
 ### 5. Import überprüfen
 

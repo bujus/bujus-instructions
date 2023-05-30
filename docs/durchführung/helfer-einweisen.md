@@ -35,15 +35,15 @@ Zum Anmelden hat jeder Helfer eigenen Zugangsdaten, weswegen Sie jedem Helfer se
 
 Damit die Helfer wissen, wie sie die Helfer-App zu benutzen haben, wird ihnen vor der ersten Anmeldung ein kurzes Anleitungsvideo gezeigt.
 
-<!-- TODO -->
+<!-- TODO Helfer app vorstellen -->
 
 Wichtig ist, dass Sie die Helfer vor der Veranstaltung oder zumindest vor dem Hochladen der Ergebnisse aktivieren, sodass dise dies auch tun können. Nachdem alle Ergebnisse hochgeladen worden sind, können Sie wieder alle Helfer deaktivieren.
 
 :::tip
 
-**Was ist die Veranstaltung 3-Wort-ID?**
+**Was ist meine Veranstaltung 3-Wort-ID?**
 
-Wenn sich Helfer in der Helfer-App anmelden möchten, benötigen sie neben Benutzername und Passwort noch die 3-Wort-ID der Vernanstaltung. Zur eindeutigen Identifizierung von Veranstaltungen hat jede Veranstaltung in Bujus eine eigene 3-Wort-ID. Diese finden Sie, wenn Sie in der Schul-App in der Navigation oben auf `Veranstaltung` klicken und dann an erster Stelle über dem Namen der Veranstaltung schauen.
+Wenn sich Helfer in der Helfer-App anmelden möchten, benötigen sie neben Benutzername und Passwort noch die 3-Wort-ID der Vernanstaltung. Zur eindeutigen Identifizierung von Veranstaltungen hat jede Veranstaltung in Bujus eine eigene 3-Wort-ID. Diese finden Sie, wenn Sie in der Schul-App in der Navigation oben auf `Veranstaltung` klicken und dann an erster Stelle über dem Namen der Veranstaltung bei `3-Wort-ID` schauen.
 
 :::
 

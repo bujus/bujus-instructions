@@ -78,7 +78,7 @@ Beim Ausdrucken, müssen Sie auch noch die Softwareseite beachten. Die folgenden
 
 ## Urkundenvorlage einstellen
 
-Um die Urkunden auszurichten, gibt es in der Navigation von Bujus den Punkt `Urkundenvorlagen-Übersicht`. Dort finden Sie zu jedem der drei Urkundentypen eine Vorlage. Jede davon können Sie bearbeiten und dann Testurkunden ausdrucken. Dadurch können Sie durch Ausrpobieren die für Ihren Drucker perfekte Skalierung und Verschiebung finden.
+Um die Urkunden auszurichten, gibt es in der Navigation von Bujus den Punkt `Urkundenvorlagen-Übersicht`. Dort finden Sie zu jedem der drei Urkundentypen eine Vorlage. Jede davon können Sie bearbeiten und dann Testurkunden ausdrucken. Dadurch können Sie durch Ausprobieren die für Ihren Drucker perfekte Skalierung und Verschiebung finden.
 
 Führen Sie die folgenden Schritte für jeden Urkundentypen durch. Oft können Sie aber die Einstellungen von den Siegerurkunden aber auch für die Teilnehmerurkunden benutzen, da diese sich meist nur in der Farbe unterscheiden.
 
