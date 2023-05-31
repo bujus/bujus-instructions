@@ -29,7 +29,7 @@ import ReactPlayer from "react-player";
 
 ## Einleitung
 
-Nachdem Sie die Urkunden generiert haben und den Druck vorbereitet haben, können Sie nun die Urkunden ausdrucken.
+Nachdem Sie die Urkunden generiert und ausgerichtet haben, können Sie nun die Urkunden ausdrucken.
   
 ## Alle ausdrucken
 
