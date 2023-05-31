@@ -31,6 +31,8 @@ import ReactPlayer from "react-player";
 
 Wenn alle Ergebnisse eingetragen sind, können Sie die Urkunden generieren.
 
+Manchmal kann für einige Teilnehmer keine Urkunde generiert werden. Dies liegt dann daran, dass diesen Teilnehmern noch Ergebnisse fehlen, ohne die keine Auswertung statt finden kann.
+
 ## Urkunden generieren
 
 1. Navigieren Sie zur `Urkunden-Übersicht`.
@@ -46,8 +48,6 @@ Wenn Sie die Ergebnisse ändern, werden die Urkunden nicht automatisch aktualisi
 :::
 
 ## Nicht generierbare Urkunden ansehen
-
-Manchmal kann für einige Teilnehmer keine Urkunde generiert werden. Dies liegt dann daran, dass diesen Teilnehmern noch Ergebnisse fehlen, ohne die keine Auswertung statt finden kann.
 
 1. Navigieren Sie zur `Urkunden-Übersicht`.
 2. Klicken Sie oben rechts auf `Generieren`. Es öffnet sich ein Dialog.

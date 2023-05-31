@@ -35,9 +35,11 @@ Um eine Veranstaltung mit Bujus durchzuführen, müssen Sie zunächst eine Veran
 
 Bujus unterscheidet zwischen Test-Veranstaltungen und Echten-Veranstaltungen.
 
-### Test-Veranstaltung
-
 Mit einer Test-Veranstaltung können Sie alle Funktionen mit einer kleinen Anzahl an Helfern und Teilnehmern kostenlos ausprobieren.
+
+Mit einer echten Veranstaltung können Sie eine Veranstaltung mit beliebig vielen Helfern und Teilnehmern durchführen.
+
+### Test-Veranstaltung
 
 1. Gehen Sie zur `Veranstaltungs-Übersicht`.
 2. Klicken Sie oben rechts auf `Erstellen`. Daraufhin öffnet sich ein Dialog.
@@ -47,8 +49,6 @@ Mit einer Test-Veranstaltung können Sie alle Funktionen mit einer kleinen Anzah
 6. Klicken Sie unten rechts auf `Erstellen`. Die neue Veranstaltung wird direkt im Dashboard ausgewählt.
 
 ### Echte-Veranstaltung
-
-Mit einer echten Veranstaltung können Sie eine Veranstaltung mit beliebig vielen Helfern und Teilnehmern durchführen.
 
 1. Navigieren Sie zur `Veranstaltungs-Übersicht`.
 2. Klicken Sie oben rechts auf `Erstellen`. Es öffnet sich ein Dialog.
