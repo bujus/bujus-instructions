@@ -29,7 +29,7 @@ import ReactPlayer from "react-player";
 
 ## Einleitung
 
-Nachdem Sie die Helfer hinzugefügt haben, sollten Sie jetzt die Teilnehmer importieren. Die Teilnehmer können Sie auch wieder einzeln oder zusammen aus einer CSV-Datei importieren. Der normale Weg ist, Sie aus Ihrer Schülerverwaltungssoftware zu exportieren und dann in Bujus zu importieren.
+Nachdem Sie die Helfer hinzugefügt haben, sollten Sie jetzt die Teilnehmer importieren. Die Teilnehmer können Sie einzeln hinzufügen oder aus einer CSV-Datei importieren.
 
 ## Teilnehmer hinzufügen
 
