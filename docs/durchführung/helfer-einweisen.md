@@ -6,8 +6,6 @@ import ReactPlayer from "react-player";
 
 # Helfer einweisen
 
-<!--
-
 <div className="video__wrapper">
   <ReactPlayer
     className="video__player"
@@ -16,16 +14,15 @@ import ReactPlayer from "react-player";
       file: {
         attributes: {
           poster:
-            "https://uploads-ssl.webflow.com/60cb8d6c93a6a6dfa3b7f245/64345e1514a8f53d8aad199e_school-instructions-video-thumbnail.jpg",
+            "https://storage.googleapis.com/files.bujus.de/school-app-tutorials/school-app-helfer-einweisen-tutorial-thumbnail.jpg",
         },
       },
     }}
     height="100%"
-    url="https://storage.googleapis.com/files.school-app.bujus.de/school-instructions-v2-compressed.mp4"
+    url="https://storage.googleapis.com/files.bujus.de/school-app-tutorials/school-app-helfer-einweisen-tutorial.mp4"
     width="100%"
   />
 </div>
-­{" "} -->
 
 ## Einleitung
 
@@ -35,7 +32,7 @@ Wenn der Tag der Bundesjugendspiele gekommen ist, müssen Sie die Helfer einweis
 
 Zuerst müssen sich alle Helfer die Helfer-App auf ihren Smartphones herunterladen. Alternativ kann die App auch auf z. B. Schultablets heruntergeladen werden. Die Links zu den Downloadseiten finden Sie auf bujus.de.
 
-Zum Anmelden hat jeder Helfer eigenen Zugangsdaten, weswegen Sie jedem Helfer seine Zugangsdaten mitteilen müssen. Diese können Sie aber auch einfach ausdrucken und dann verteilen.
+Dann melden sich alle Helfer mit ihren eigenen Zugangsdaten an, weswegen Sie jedem Helfer seine Zugangsdaten mitteilen müssen. Diese können Sie aber auch einfach ausdrucken und dann verteilen.
 
 Damit die Helfer wissen, wie sie die Helfer-App zu benutzen haben, wird ihnen vor der ersten Anmeldung ein kurzes Anleitungsvideo gezeigt.
 
@@ -50,12 +47,6 @@ Mehr Informationen zur Helfer-App finden Sie in der Anleitung der Helfer-App.
 Wenn sich Helfer in der Helfer-App anmelden möchten, benötigen sie neben Benutzername und Passwort noch die 3-Wort-ID der Vernanstaltung. Zur eindeutigen Identifizierung von Veranstaltungen hat jede Veranstaltung in Bujus eine eigene 3-Wort-ID. Diese finden Sie, wenn Sie in der Schul-App in der Navigation oben auf `Veranstaltung` klicken und dann an erster Stelle über dem Namen der Veranstaltung bei `3-Wort-ID` schauen.
 
 :::
-
-<!-- ## Veranstaltungsdaten erneut herunterladen
-
-TODO
-
--->
 
 ## Zugangsdaten ausdrucken und verteilen
 

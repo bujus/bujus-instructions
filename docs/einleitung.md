@@ -23,12 +23,12 @@ Unter jedem Video finden Sie auch immer eine Zusammenfassung, sodass Sie sich ei
       file: {
         attributes: {
           poster:
-            "https://uploads-ssl.webflow.com/60cb8d6c93a6a6dfa3b7f245/64345e1514a8f53d8aad199e_school-instructions-video-thumbnail.jpg",
+            "https://storage.googleapis.com/files.bujus.de/school-app-tutorials/school-app-einleitung-tutorial-thumbnail.jpg",
         },
       },
     }}
     height="100%"
-    url="https://storage.googleapis.com/files.school-app.bujus.de/school-instructions-v2-compressed.mp4"
+    url="https://storage.googleapis.com/files.bujus.de/school-app-tutorials/school-app-einleitung-tutorial.mp4"
     width="100%"
   />
 </div>
@@ -56,9 +56,9 @@ Sie läuft auf Apple und Android Smartphones oder auch Tablets.
 
 Eine Veranstaltung mit Bujus läuft in 3 Phasen ab:
 
-1. Vorbereitung: Sie erstellen eine Veranstaltung und fügen die Helfer und Teilnehmer hinzu.
-2. Durchführung: Die Helfer laden sich alle die Helfer-App herunter, melden sich an und tragen die Ergebnisse der Teilnehmer ein.
-3. Auswertung: Sie generieren die Urkunden und drucken diese auf das offizielle Urkundenpapier.
+1. Vorbereitung: Sie fügen die Helfer hinzu und importieren die Teilnehmer aus Ihrer Schüler-Verwaltung-Software..
+2. Durchführung: Die Helfer tragen die Ergebnisse der Teilnehmer direkt an den Stationen offline in die App ein und laden diese am Ende der Veranstaltung hoch.
+3. Auswertung: Am Ende der Veranstaltung werten Sie automatisch alle Teilnehmer aus und drucken die Urkunden auf das offizielle Urkundenpapier.
 
 ## Account erstellen
 

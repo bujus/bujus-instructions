@@ -6,8 +6,6 @@ import ReactPlayer from "react-player";
 
 # Helfer hinzufügen
 
-<!--
-
 <div className="video__wrapper">
   <ReactPlayer
     className="video__player"
@@ -17,19 +15,20 @@ import ReactPlayer from "react-player";
       file: {
         attributes: {
           poster:
-            "https://uploads-ssl.webflow.com/60cb8d6c93a6a6dfa3b7f245/64345e1514a8f53d8aad199e_school-instructions-video-thumbnail.jpg",
+            "https://storage.googleapis.com/files.bujus.de/school-app-tutorials/school-app-helfer-hinzufu%CC%88gen-tutorial-thumbnail.jpg",
         },
       },
     }}
-    url="https://storage.googleapis.com/files.school-app.bujus.de/school-instructions-v2-compressed.mp4"
+    url="https://storage.googleapis.com/files.bujus.de/school-app-tutorials/school-app-helfer-hinzufu%CC%88gen-tutorial.mp4"
     width="100%"
   />
 </div>
-­{" "} -->
 
 ## Einleitung
 
 Nachdem Sie eine Veranstaltung erstellt haben, können Sie nun die Helfer hinzufügen. Dies können Sie einzeln tun oder Sie importieren die Helfer aus einer CSV-Datei.
+
+Jeder Helfer hat einen eigenen Benutzernamen und ein eigenes Passwort für die Helfer-App.
 
 ## Helfer hinzufügen
 

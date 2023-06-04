@@ -6,8 +6,6 @@ import ReactPlayer from "react-player";
 
 # Veranstaltung erstellen
 
-<!--
-
 <div className="video__wrapper">
   <ReactPlayer
     className="video__player"
@@ -16,16 +14,15 @@ import ReactPlayer from "react-player";
       file: {
         attributes: {
           poster:
-            "https://uploads-ssl.webflow.com/60cb8d6c93a6a6dfa3b7f245/64345e1514a8f53d8aad199e_school-instructions-video-thumbnail.jpg",
+            "https://storage.googleapis.com/files.bujus.de/school-app-tutorials/school-app-veranstaltung-erstellen-tutorial-thumbnail.jpg",
         },
       },
     }}
     height="100%"
-    url="https://storage.googleapis.com/files.school-app.bujus.de/school-instructions-v2-compressed.mp4"
+    url="https://storage.googleapis.com/files.bujus.de/school-app-tutorials/school-app-veranstaltung-erstellen-tutorial.mp4"
     width="100%"
   />
 </div>
-­{" "} -->
 
 ## Einleitung
 
@@ -56,7 +53,7 @@ Mit einer echten Veranstaltung können Sie eine Veranstaltung mit beliebig viele
 8. Klicken Sie unten rechts auf `Bezahlen und Erstellen`. Daraufhin werden Sie auf die Zahlungsseite weitergeleitet. Wenn Sie einen Discount-Code für eine komplett kostenlose Veranstaltung eingegeben haben, werden Sie nicht weitergeleitet.
 9. Zahlen Sie. Dann werden Sie automatisch wieder zur Schul-App geleitet und die neue Veranstaltung wird auch direkt im Dashboard ausgewählt.
 
-:::info
+:::tip
 
 **Was ist das Startdatum?**
 

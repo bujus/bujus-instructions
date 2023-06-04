@@ -6,8 +6,6 @@ import ReactPlayer from "react-player";
 
 # Urkunden ausrichten
 
-<!--
-
 <div className="video__wrapper">
   <ReactPlayer
     className="video__player"
@@ -17,15 +15,14 @@ import ReactPlayer from "react-player";
       file: {
         attributes: {
           poster:
-            "https://uploads-ssl.webflow.com/60cb8d6c93a6a6dfa3b7f245/64345e1514a8f53d8aad199e_school-instructions-video-thumbnail.jpg",
+            "https://storage.googleapis.com/files.bujus.de/school-app-tutorials/school-app-urkunden-ausrichten-tutorial-thumbnail.jpg",
         },
       },
     }}
-    url="https://storage.googleapis.com/files.school-app.bujus.de/school-instructions-v2-compressed.mp4"
+    url="https://storage.googleapis.com/files.bujus.de/school-app-tutorials/school-app-urkunden-ausrichten-tutorial.mp4"
     width="100%"
   />
 </div>
-­{" "} -->
 
 ## Einleitung
 
@@ -33,10 +30,10 @@ Jeder Drucker druckt etwas anderes, weswegen Sie, bevor Sie die Urkunden ausdruc
 
 ## Drucker Tipps
 
-Bevor Sie Urkunden Ausrichten und später dann Ausdrucken ist es wichtig, dass Sie Ihren Drucker richtig benutzen. Beachten Sie dazu diese Tipps:
+Bevor Sie Urkunden Ausrichten und später dann Ausdrucken ist es wichtig, dass Sie diese Tipps zu Ihrem Drucker beachten:
 
-1. Nutzen Sie immer den selben Drucker.
-2. Nutzen Sie an dem Drucker immer den selben Einzug.
+1. Nutzen Sie immer denselben Drucker.
+2. Nutzen Sie an dem Drucker immer denselben Einzug.
 3. Das Urkundenpapier ist etwas dicker und nicht jeder Drucker und Einzug unterstützt dickes Papier. Meist haben Drucker neben der normalen Papierschublade einen extra Einzug für Fotopapier, dickers Papier und andere Medien.
 4. Legen Sie das Urkundenpapier richtig herum ein, damit der Aufdruck auf der richtigen Seite landet.
 5. Legen Sie das Urkundenpapier immer sauber gestapelt und gerade in den Einzug ein. Legen Sie dann auch die Führungen des Einzugs eng an das Papier an.
@@ -71,7 +68,7 @@ Beim Ausdrucken, müssen Sie auch noch die Softwareseite beachten. Die folgenden
 - Breite: 210 mm (21,0 cm)
 - Höhe: 298,25 mm (29,825 cm)
 
-### Sieger- und Teilnehmerurkunden
+### Sieger- und Teilnahmeurkunden
 
 - Breite: 145,25 mm (14,525 cm)
 - Höhe: 210 mm (21,0 cm)
@@ -80,13 +77,13 @@ Beim Ausdrucken, müssen Sie auch noch die Softwareseite beachten. Die folgenden
 
 Um die Urkunden auszurichten, gibt es in der Navigation von Bujus den Punkt `Urkundenvorlagen-Übersicht`. Dort finden Sie zu jedem der drei Urkundentypen eine Vorlage. Jede davon können Sie bearbeiten und dann Testurkunden ausdrucken. Dadurch können Sie durch Ausprobieren die für Ihren Drucker perfekte Skalierung und Verschiebung finden.
 
-Führen Sie die folgenden Schritte für jeden Urkundentypen durch. Oft können Sie aber die Einstellungen von den Siegerurkunden aber auch für die Teilnehmerurkunden benutzen, da diese sich meist nur in der Farbe unterscheiden.
+Führen Sie die folgenden Schritte für jeden Urkundentypen durch. Oft können Sie aber die Einstellungen von den Siegerurkunden auch für die Teilnahmeurkunden benutzen, da diese sich meist nur in der Farbe unterscheiden.
 
 ### Skalierung einstellen
 
 #### Skalierung durch Testen herausfinden
 
-1. Navigieren Sie zu `Urkundenvorlagen-Übersicht`.
+1. Navigieren Sie zur `Urkundenvorlagen-Übersicht`.
 2. Klicken Sie bei der gewünschten Urkundenvorlage auf `Test drucken`. Es öffnet sich ein PDF mit einer Testurkunde.
 3. Laden Sie das PDF herunter.
 4. Legen Sie passendes Urkundenpapier in Ihren Drucker ein.
@@ -96,7 +93,7 @@ Führen Sie die folgenden Schritte für jeden Urkundentypen durch. Oft können S
 
 #### Skalierung ändern
 
-1. Navigieren Sie zu `Urkundenvorlagen-Übersicht`.
+1. Gehen Sie zur `Urkundenvorlagen-Übersicht`.
 2. Klicken Sie bei der gwünschten Urkundenvorlage auf `Bearbeiten`. Daraufhin öffnet sich ein Dialog.
 3. Ziehen Sie den Schieberegler mit der Lupe auf den gewünschten Wert. Nach Links machen Sie den Ausdruck größer, nach Rechts verkleinern Sie ihn.
 4. Klicken Sie unten rechts auf `Ändern`.
@@ -105,7 +102,7 @@ Führen Sie die folgenden Schritte für jeden Urkundentypen durch. Oft können S
 
 #### Verschiebung durch Testen herausfinden
 
-1. Gehen Sie zu den `Urkundenvorlagen-Übersicht`.
+1. Gehen Sie zur `Urkundenvorlagen-Übersicht`.
 2. Klicken Sie bei der gewünschten Urkundenvorlage auf `Test drucken`. Dadurch öffnet sich ein PDF mit einer Testurkunde.
 3. Laden Sie das PDF herunter.
 4. Legen Sie passendes Urkundenpapier in Ihren Drucker ein.
@@ -115,22 +112,16 @@ Führen Sie die folgenden Schritte für jeden Urkundentypen durch. Oft können S
 
 #### Verschiebung ändern
 
-1. Navigieren Sie zu `Urkundenvorlagen-Übersicht`.
+1. Öffnen Sie die `Urkundenvorlagen-Übersicht`.
 2. Klicken Sie bei der gwünschten Urkundenvorlage auf `Bearbeiten`. Es öffnet sich ein Dialog.
 3. Ziehen Sie die Schieberegler mit den Pfeilen auf die gewünschten Werte. Es gibt einen einen um den Aufdruck horizontal zu verschieben und einen um ihn vertikal zu verschieben.
 4. Klicken Sie unten rechts auf `Ändern`.
-
-:::tip
-
-Fangen Sie mit der Verschiebung erst an, wenn Sie die Skalierung fertig eingestellt haben.
-
-:::
 
 #### Einzelne Elemente verschieben
 
 Wenn Sie die Urkunde ausgerichtet haben, aber z. B. der Name noch nicht an der richtigen Stelle ist, können Sie auch einzelne Elemente verschieben.
 
-1. Navigieren Sie zu den `Urkundenvorlagen-Übersicht`.
+1. Navigieren Sie zur `Urkundenvorlagen-Übersicht`.
 2. Klicken Sie bei der gewünschten Urkundenvorlage auf `Bearbeiten`. Es öffnet sich ein Dialog.
 3. Klicken Sie auf `Standard Elemente`. Dadurch werden die Einstellungen zu den einzelnen Elementen angezeigt.
 4. Verschieben Sie das gewünschte Element.

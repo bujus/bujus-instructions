@@ -6,8 +6,6 @@ import ReactPlayer from "react-player";
 
 # Teilnehmer importieren
 
-<!--
-
 <div className="video__wrapper">
   <ReactPlayer
     className="video__player"
@@ -16,16 +14,15 @@ import ReactPlayer from "react-player";
       file: {
         attributes: {
           poster:
-            "https://uploads-ssl.webflow.com/60cb8d6c93a6a6dfa3b7f245/64345e1514a8f53d8aad199e_school-instructions-video-thumbnail.jpg",
+            "https://storage.googleapis.com/files.bujus.de/school-app-tutorials/school-app-teilnehmer-importieren-tutorial-thumbnail.jpg",
         },
       },
     }}
     height="100%"
-    url="https://storage.googleapis.com/files.school-app.bujus.de/school-instructions-v2-compressed.mp4"
+    url="https://storage.googleapis.com/files.bujus.de/school-app-tutorials/school-app-teilnehmer-importieren-tutorial.mp4"
     width="100%"
   />
 </div>
-­{" "} -->
 
 ## Einleitung
 
@@ -56,7 +53,7 @@ Teilnehmer dürfen nur zwischen inkl. 8 und inkl. 25 Jahre alt sein dürfen. Fü
 
 ### 1. CSV-Datei vorbereiten
 
-Als erstes müssen Sie eine CSV-Datei mit den benötigten Daten vorbereiten.
+Als erstes müssen Sie eine CSV-Datei mit Ihren Schülerdaten vorbereiten.
 
 Wenn Sie diese selbst in Excel erstellen möchten, können Sie sich die Importhilfe herunterladen. Klicken Sie dazu oben links auf `Importhilfe herunterladen`. Diese können sie dann mit Excel öffnen und dann Ihre Schülerdaten in die entsprechenden Spalten reinschreiben oder hineinkopieren.
 
@@ -137,7 +134,7 @@ Dazu finden Sie oberhalb der Checkboxen und Dropdowns eine Vorschau Ihrer Datei 
 
 Unter der Vorschaue Ihrer Datei finden Sie die Einstellungsmöglichkeiten. Hier können Sie auswählen, in welcher Spalte welche Daten sind. Wenn Sie oben in der Vorschau z. B. sehen, dass der Vorname in Ihrer Datei in Spalte 1 ist, müssen Sie bei den Einstellungen in dem Dropdown für Vorname die Spalte 1 auswählen. Tun Sie dies für alle benötigten Daten.
 
-Unter den Einstellungsmöglichkeiten finden Sie eine Vorschaue der Teilnehmer. In dieser Tabell können Sie kontrollieren, ob Sie Ihre Daten richtig zugeordnet haben. In der ersten Zeile sind die Felder benannt (Schulinterne ID, Vorname, etc.) In den Zeilen dadrunter werden die zugeordneten Daten aus Ihrer Datei angezeigt. Hier sollten nach der Zuordnung also z. B. nur Schulinterne IDs in der Spalte für Schulinterne IDs stehen, nur Vornamen in der Spalte für Vornamen, etc.
+Unter den Einstellungsmöglichkeiten finden Sie eine Vorschaue der Teilnehmer. In dieser Tabelle können Sie kontrollieren, ob Sie Ihre Daten richtig zugeordnet haben. In der ersten Zeile sind die Felder benannt (Schulinterne ID, Vorname, etc.) In den Zeilen dadrunter werden die zugeordneten Daten aus Ihrer Datei angezeigt. Hier sollten nach der Zuordnung also z. B. nur Schulinterne IDs in der Spalte für Schulinterne IDs stehen, nur Vornamen in der Spalte für Vornamen, etc.
 
 Standardmäßig ist der Import der Schulinternen ID und der Klasse deaktiviert. Sollten Sie diese auch importieren wollen, müssen Sie die entsprechenden Checkboxen aktivieren und dann in den Dropdowns die Spalten auswählen.
 

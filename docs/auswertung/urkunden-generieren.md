@@ -6,8 +6,6 @@ import ReactPlayer from "react-player";
 
 # Urkunden generieren
 
-<!--
-
 <div className="video__wrapper">
   <ReactPlayer
     className="video__player"
@@ -16,16 +14,15 @@ import ReactPlayer from "react-player";
       file: {
         attributes: {
           poster:
-            "https://uploads-ssl.webflow.com/60cb8d6c93a6a6dfa3b7f245/64345e1514a8f53d8aad199e_school-instructions-video-thumbnail.jpg",
+            "https://storage.googleapis.com/files.bujus.de/school-app-tutorials/school-app-urkunden-generieren-tutorial-thumbnail.jpg",
         },
       },
     }}
     height="100%"
-    url="https://storage.googleapis.com/files.school-app.bujus.de/school-instructions-v2-compressed.mp4"
+    url="https://storage.googleapis.com/files.bujus.de/school-app-tutorials/school-app-urkunden-generieren-tutorial.mp4"
     width="100%"
   />
 </div>
-­{" "} -->
 
 ## Einleitung
 
@@ -39,13 +36,13 @@ Manchmal kann für einige Teilnehmer keine Urkunde generiert werden. Dies liegt 
 2. Klicken Sie oben rechts auf `Generieren`. Es öffnet sich ein Dialog.
 3. Klicken Sie auf `Generieren`.
 
-:::tip
+<!-- :::tip
 
 **Wieso aktualisieren sich die Urkunden nicht, wenn ich Ergebnisse ändere?**
 
 Wenn Sie die Ergebnisse ändern, werden die Urkunden nicht automatisch aktualisiert. Sie müssen die Urkunden immer erneut generieren.
 
-:::
+::: -->
 
 ## Nicht generierbare Urkunden ansehen
 

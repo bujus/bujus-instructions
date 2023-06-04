@@ -6,8 +6,6 @@ import ReactPlayer from "react-player";
 
 # Urkunden ausdrucken
 
-<!--
-
 <div className="video__wrapper">
   <ReactPlayer
     className="video__player"
@@ -16,16 +14,15 @@ import ReactPlayer from "react-player";
       file: {
         attributes: {
           poster:
-            "https://uploads-ssl.webflow.com/60cb8d6c93a6a6dfa3b7f24564345e1514a8f53d8aad199e_school-instructions-video-thumbnail.jpg",
+            "https://storage.googleapis.com/files.bujus.de/school-app-tutorials/school-app-urkunden-ausdrucken-tutorial-thumbnail.jpg",
         },
       },
     }}
     height="100%"
-    url="https://storage.googleapis.com/files.school-app.bujus.de/school-instructions-v2-compressed.mp4"
+    url="https://storage.googleapis.com/files.bujus.de/school-app-tutorials/school-app-urkunden-ausdrucken-tutorial.mp4"
     width="100%"
   />
 </div>
-­{" "} -->
 
 ## Einleitung
 
@@ -36,12 +33,12 @@ Nachdem Sie die Urkunden generiert und ausgerichtet haben, können Sie nun die U
 1. Navigieren Sie zur `Urkundenübersicht`.
 2. Klicken Sie oben rechts auf `Drucken`. Dadurch öffnet sich ein Dialog.
 3. Wenn Sie möchten können Sie eine `Sortierung` und eine `Reihenfolge` für die Urkunden festlegen.
-4. Klicken Sie auf `Drucken`. Dadurch werden insgesamt drei PDFs generiert - Jeweils eins mit den Ehren-, Sieger- und Teilnehmerurkunden.
+4. Klicken Sie auf `Drucken`. Dadurch werden insgesamt drei PDFs generiert - Jeweils eins mit den Ehren-, Sieger- und Teilnahmeurkunden.
 5. Klicken Sie nacheinander auf die drei Buttons um alle drei PDFs zu öffnen.
 6. Laden Sie sich alle drei PDFs herunter.
 7. Legen Sie das Ehren-Urkundenpapier in Ihren Drucker ein.
 8. Drucken Sie die Ehrenurkunden aus. Eventuell müssen Sie dann noch zwischendurch Papier nachlegen.
-9. Wiederholen Sie die Schritte 7 und 8 für die Sieger- und Teilnehmerurkunden.
+9. Wiederholen Sie die Schritte 7 und 8 für die Sieger- und Teilnahmeurkunden.
 
 :::tip
 
