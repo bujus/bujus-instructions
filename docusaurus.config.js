@@ -79,7 +79,7 @@ const config = {
           },
           {
             to: "https://bujus.de/#contact-section",
-            label: "Hilfe",
+            label: "Kontakt/Hilfe",
             position: "left",
           },
           {

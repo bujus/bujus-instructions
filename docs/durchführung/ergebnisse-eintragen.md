@@ -4,7 +4,7 @@ sidebar_position: 2
 
 import ReactPlayer from "react-player";
 
-# Ergebnisse eintragen
+# Ergebnisse erfassen
 
 <div className="video__wrapper">
   <ReactPlayer
@@ -30,7 +30,7 @@ Während die Bundesjugendspiele laufen, tragen die Helfer die Ergebnisse der Tei
 
 Am Ende der Veranstaltung wenn alle Ergebnisse eingetragen worden sind, laden die Helfer die Ergebnisse hoch. Es ist auch möglich, dass Helfer die Ergebnisse auch schon während der Veranstaltung mal hochladen. Danach können Sie die Ergebnisse auch in der Schul-App einsehen und auch selbst noch bearbeiten.
 
-## Ergebnisse eintragen
+## Ergebnisse erfassen
 
 1. Navigieren Sie zur `Ergebnis-Übersicht`.
 2. Klicken Sie oben rechts auf `Eintragen`. Daraufhin öffnet sich ein Dialog

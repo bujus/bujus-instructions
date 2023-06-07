@@ -40,9 +40,17 @@ a.card:hover {
   box-shadow: unset;
 }
 
+.video__portrait-container {
+  max-width: 480px;
+}
+
 .video__wrapper {
   position: relative;
   padding-bottom: 56.25%;
+}
+
+.video__wrapper.--portrait {
+  padding-bottom: 177.78%;
 }
 
 .video__player {

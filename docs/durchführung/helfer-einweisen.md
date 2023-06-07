@@ -40,6 +40,28 @@ Wichtig ist, dass Sie die Helfer vor der Veranstaltung oder zumindest vor dem Ho
 
 Mehr Informationen zur Helfer-App finden Sie in der Anleitung der Helfer-App.
 
+<div className="video__portrait-container">
+  <div className="video__wrapper --portrait">
+    <ReactPlayer
+      className="video__player"
+      controls
+      config={{
+        file: {
+          attributes: {
+            poster:
+              "https://storage.googleapis.com/files.bujus.de/tutorials/helper-app/helper-app-tutorial-poster-x1080.jpg",
+          },
+        },
+      }}
+      height="100%"
+      url="https://storage.googleapis.com/files.school-app.bujus.de/helper-instructions-v7-compressed.mp4"
+      width="100%"
+    />
+  </div>
+</div>
+
+## Einleitung
+
 :::tip
 
 **Was ist meine Veranstaltung 3-Wort-ID?**
