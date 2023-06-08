@@ -13,6 +13,18 @@ Ich möchte Sie auch dazu einladen, direkt mitzumachen und so alles selbst einma
 
 Unter jedem Video finden Sie auch immer eine Zusammenfassung, sodass Sie sich einmal das Video anschauen können und dann bei Bedarf nochmal nachlesen können.
 
+:::tip
+
+**Benötigen Sie Hilfe?**
+
+Sie haben Fragen, Feedback oder ein anderes Anliegen? Melden Sie sich gerne einfach bei mir.
+
+Für schnelle Hilfe nutzen Sie den [Live-Chat](https://bujus.de#hs-chat-open) – ich antworte Ihnen meist sofort.
+
+Wenn Sie möchten, können wir auch einmal zusammen eine Veranstaltung durchspielen und ich zeige Ihnen, wie Bujus funktioniert und wie Sie es richtig einsetzen können.
+
+:::
+
 ## Video
 
 <div className="video__wrapper">
