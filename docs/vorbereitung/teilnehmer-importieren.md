@@ -35,14 +35,14 @@ Nachdem Sie die Helfer hinzugefügt haben, sollten Sie jetzt die Teilnehmer impo
 3. Geben Sie `Vorname` und `Nachname` ein.
 4. Wählen Sie das `Geschlecht` aus.
 5. Geben Sie das `Geburtsjahr` ein.
-6. Optional können Sie noch die Schulinterne-ID und/oder Klasse angeben (Um z. B. Namensgleichheiten vorzubeugen).
+6. Optional können Sie noch die Schulinterne-ID und/oder Klasse angeben (Um z. B. Namensgleichheiten vorzubeugen).
 7. Klicken Sie unten rechts auf `Hinzufügen`.
 
 <!-- :::info
 
 **Wie alt dürfen Teilnehmer sein?**
 
-Teilnehmer dürfen nur zwischen inkl. 8 und inkl. 25 Jahre alt sein dürfen. Für das Jahr 2023 berechnen sich daraus z. B. die Geburtsjahre von 1998 bis 2015.
+Teilnehmer dürfen nur zwischen inkl. 8 und inkl. 25 Jahre alt sein dürfen. Für das Jahr 2023 berechnen sich daraus z. B. die Geburtsjahre von 1998 bis 2015.
 
 ::: -->
 
@@ -65,7 +65,7 @@ Der normale Weg ist allerdings, dass Sie die Schülerdaten einfach nur aus Ihrer
 
 Das ist von Schülerverwaltungssoftware zu Schülerverwaltungssoftware unterschiedlich. In den meisten Fällen gibt es aber eine Export-Funktion, bei der Sie dann auch noch einstellen können, welche Daten Sie exportieren möchten und in welchem Format diese sein sollen.
 
-Wenn Sie bei diesem Schritt Hilfe benötigen, wenden Sie sich z. B. an den Verantwortlichen an Ihrer Schule oder an den [Bujus-Support](https://bujus.de#contact-section).
+Wenn Sie bei diesem Schritt Hilfe benötigen, wenden Sie sich z. B. an den Verantwortlichen an Ihrer Schule oder an den [Bujus-Support](https://bujus.de#contact-section).
 
 :::
 
@@ -81,10 +81,10 @@ Diese Spalten müssen in der CSV-Datei in beliebiger Reihenfolge vorhanden sein:
   - Das Geschlecht muss einfach nur mit m für männlich oder mit w oder f für weiblich anfangen. Groß- und Kleinschreibung spielen dabei keine Rolle.
 - Geburtsjahr
   - Das Geburtsjahr kann als Zahl oder als Geburtsdatum in diesen Formaten angegeben werden:
-    - yyyy (z. B. 2015)
-    - dd.mm.yyyy (z. B. 13.01.2015 oder auch 13.1.2015)
-    - mm/dd/yyyy (z. B. 01/13/2015 oder auch 1/13/2015)
-    - yyyy-mm-dd (z. B. 2015-01-13 oder auch 2015-1-13)
+    - yyyy (z. B. 2015)
+    - dd.mm.yyyy (z. B. 13.01.2015 oder auch 13.1.2015)
+    - mm/dd/yyyy (z. B. 01/13/2015 oder auch 1/13/2015)
+    - yyyy-mm-dd (z. B. 2015-01-13 oder auch 2015-1-13)
   - Das Jahr muss immer 4-stellig sein. Tag und Monat können ein- oder zweistellig sein.
 
 Diese Spalten sind optional:
@@ -132,9 +132,9 @@ Wenn Sie die Importhilfe nicht genutzt haben, müssen Sie wahrscheinlich alle Sp
 
 Dazu finden Sie oberhalb der Checkboxen und Dropdowns eine Vorschau Ihrer Datei in Form einer Tabelle. Dabei sind in der ersten Zeile die Spalten durchnummeriert (Spalte 1, Spalte 2, etc.). Darunter sehen Sie Daten aus Ihrer Datei.
 
-Unter der Vorschaue Ihrer Datei finden Sie die Einstellungsmöglichkeiten. Hier können Sie auswählen, in welcher Spalte welche Daten sind. Wenn Sie oben in der Vorschau z. B. sehen, dass der Vorname in Ihrer Datei in Spalte 1 ist, müssen Sie bei den Einstellungen in dem Dropdown für Vorname die Spalte 1 auswählen. Tun Sie dies für alle benötigten Daten.
+Unter der Vorschaue Ihrer Datei finden Sie die Einstellungsmöglichkeiten. Hier können Sie auswählen, in welcher Spalte welche Daten sind. Wenn Sie oben in der Vorschau z. B. sehen, dass der Vorname in Ihrer Datei in Spalte 1 ist, müssen Sie bei den Einstellungen in dem Dropdown für Vorname die Spalte 1 auswählen. Tun Sie dies für alle benötigten Daten.
 
-Unter den Einstellungsmöglichkeiten finden Sie eine Vorschaue der Teilnehmer. In dieser Tabelle können Sie kontrollieren, ob Sie Ihre Daten richtig zugeordnet haben. In der ersten Zeile sind die Felder benannt (Schulinterne-ID, Vorname, etc.) In den Zeilen darunter werden die zugeordneten Daten aus Ihrer Datei angezeigt. Hier sollten nach der Zuordnung also z. B. nur Schulinterne-IDs in der Spalte für Schulinterne-IDs stehen, nur Vornamen in der Spalte für Vornamen, etc.
+Unter den Einstellungsmöglichkeiten finden Sie eine Vorschaue der Teilnehmer. In dieser Tabelle können Sie kontrollieren, ob Sie Ihre Daten richtig zugeordnet haben. In der ersten Zeile sind die Felder benannt (Schulinterne-ID, Vorname, etc.) In den Zeilen darunter werden die zugeordneten Daten aus Ihrer Datei angezeigt. Hier sollten nach der Zuordnung also z. B. nur Schulinterne-IDs in der Spalte für Schulinterne-IDs stehen, nur Vornamen in der Spalte für Vornamen, etc.
 
 Standardmäßig ist der Import der Schulinternen-ID und der Klasse deaktiviert. Sollten Sie diese auch importieren wollen, müssen Sie die entsprechenden Checkboxen aktivieren und dann in den Dropdowns die Spalten auswählen.
 
@@ -149,7 +149,7 @@ Manchmal bekommen Sie beim Importieren Validierungsfehler. Diese werden Ihnen in
 3. Welchen Wert Sie importieren wollten.
 4. Was mit dem Wert nicht stimmt.
 
-Wenn Sie Validierungsfehler bekommen, müssen Sie die Daten in Ihrer CSV-Datei (z. B. wieder mit Excel) korrigieren und dann erneut importieren.
+Wenn Sie Validierungsfehler bekommen, müssen Sie die Daten in Ihrer CSV-Datei (z. B. wieder mit Excel) korrigieren und dann erneut importieren.
 
 ### 5. Import überprüfen
 
@@ -161,7 +161,7 @@ Sie können die fehlerhaften Teilnehmer dann auch exportieren. Klicken Sie dazu 
 
 #### Umlaute werden nicht richtig angezeigt
 
-Dies liegt meist daran, dass die Umlaute schon nicht richtig aus z. B. Excel exportiert wurden.
+Dies liegt meist daran, dass die Umlaute schon nicht richtig aus z. B. Excel exportiert wurden.
 
 Um das Problem zu lösen, müssen Sie beim Export aus Excel zunächst ganz normal CSV-Datei wählen und dann aber beim Abspeichern `CSV UTF-8` als Dateityp auswählen. Dann sollten die Umlaute und alle anderen speziellen Zeichen richtig exportiert werden und dann auch in Bujus korrekt angezeigt werden.
 

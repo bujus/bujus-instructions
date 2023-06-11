@@ -28,7 +28,7 @@ import ReactPlayer from "react-player";
 
 Nachdem Sie die Urkunden generiert und ausgerichtet haben, können Sie nun die Urkunden ausdrucken.
   
-## Alle ausdrucken
+## Alle Urkunden ausdrucken
 
 1. Navigieren Sie zur `Urkundenübersicht`.
 2. Klicken Sie oben rechts auf `Drucken`. Dadurch öffnet sich ein Dialog.
@@ -55,7 +55,7 @@ In diesen Anleitungen können Sie nachlesen, wie Sie dies in Ihrem Browser einst
 
 :::
 
-## Einzeln ausdrucken
+## Einzelne Urkunden ausdrucken
 
 1. Gehen Sie zur `Urkundenübersicht`.
 2. Suchen Sie die gewünschte Urkunde heraus.

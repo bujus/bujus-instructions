@@ -55,7 +55,7 @@ Dies können Sie in der Druckeranleitung nachlesen oder wie folgt ausprobieren.
 
 ## Software Tipps
 
-Beim Ausdrucken, müssen Sie auch noch die Softwareseite beachten. Die folgenden Dinge können Sie im Druckdialog einstellen. Also dort, wo Sie z. B. auch die Anzahl der Exemplare einstellen oder zwischen Farbe und Schwarz-Weiß wechseln können.
+Beim Ausdrucken, müssen Sie auch noch die Softwareseite beachten. Die folgenden Dinge können Sie im Druckdialog einstellen. Also dort, wo Sie z. B. auch die Anzahl der Exemplare einstellen oder zwischen Farbe und Schwarz-Weiß wechseln können.
 
 1. Stellen Sie auch hier die genauen Maße der Urkundenpapiere ein. Die Maße finden Sie weiter unten.
 2. Drucken Sie die Urkunden immer mit 100 % Skalierung aus.
@@ -119,7 +119,7 @@ Führen Sie die folgenden Schritte für jeden Urkundentypen durch. Oft können S
 
 #### Einzelne Elemente verschieben
 
-Wenn Sie die Urkunde ausgerichtet haben, aber z. B. der Name noch nicht an der richtigen Stelle ist, können Sie auch einzelne Elemente verschieben.
+Wenn Sie die Urkunde ausgerichtet haben, aber z. B. der Name noch nicht an der richtigen Stelle ist, können Sie auch einzelne Elemente verschieben.
 
 1. Navigieren Sie zur `Urkundenvorlagen-Übersicht`.
 2. Klicken Sie bei der gewünschten Urkundenvorlage auf `Bearbeiten`. Es öffnet sich ein Dialog.

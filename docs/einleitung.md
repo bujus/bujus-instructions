@@ -19,7 +19,7 @@ Unter jedem Video finden Sie auch immer eine Zusammenfassung, sodass Sie sich ei
 
 Sie haben Fragen, Feedback oder ein anderes Anliegen? Melden Sie sich gerne einfach bei mir.
 
-Für schnelle Hilfe nutzen Sie den [Live-Chat](https://bujus.de#hs-chat-open) – ich antworte Ihnen meist sofort.
+Für schnelle Hilfe nutzen Sie den [Live-Chat](https://bujus.de#hs-chat-open) – ich antworte Ihnen meist sofort. Alternativ erreichen Sie mich auch unter +49 179 3669961.
 
 Wenn Sie möchten, können wir auch einmal zusammen eine Veranstaltung durchspielen und ich zeige Ihnen, wie Bujus funktioniert und wie Sie es richtig einsetzen können.
 
@@ -54,9 +54,9 @@ Dazu besteht Bujus aus der Schul-App für den Organisator und der Helfer-App fü
 
 ### Schul-App für den Organisator
 
-Mit der Schul-App können Sie als Organisator Veranstaltungen verwalten, also z. B. Vorbereiten und Auswerten.
+Mit der Schul-App können Sie als Organisator Veranstaltungen verwalten, also z. B. Vorbereiten und Auswerten.
 
-Sie läuft im Browser, z. B. auf Laptops oder Tablets.
+Sie läuft im Browser, z. B. auf Laptops oder Tablets.
 
 ### Helfer-App für die Helfer
 
