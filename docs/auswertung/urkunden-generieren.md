@@ -28,7 +28,7 @@ import ReactPlayer from "react-player";
 
 Wenn alle Ergebnisse eingetragen sind, können Sie die Urkunden generieren.
 
-Manchmal kann für einige Teilnehmer keine Urkunde generiert werden. Dies liegt dann daran, dass diesen Teilnehmern noch Ergebnisse fehlen, ohne die keine Auswertung statt finden kann.
+Manchmal kann für einige Teilnehmer keine Urkunde generiert werden. Dies liegt dann daran, dass diesen Teilnehmern noch Ergebnisse fehlen, ohne die keine Auswertung stattfinden kann.
 
 ## Urkunden generieren
 
