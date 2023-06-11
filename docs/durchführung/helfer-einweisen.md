@@ -30,7 +30,7 @@ Wenn der Tag der Bundesjugendspiele gekommen ist, müssen Sie die Helfer einweis
 
 ## Helfer-App
 
-Zuerst müssen sich alle Helfer die Helfer-App auf ihren Smartphones herunterladen. Alternativ kann die App auch auf z. B. Schultablets heruntergeladen werden. Die Links zu den Downloadseiten finden Sie auf bujus.de.
+Zuerst müssen sich alle Helfer die Helfer-App auf ihren Smartphones herunterladen. Alternativ kann die App auch auf z. B. Schultabletts heruntergeladen werden. Die Links zu den Downloadseiten finden Sie auf bujus.de.
 
 Dann melden sich alle Helfer mit ihren eigenen Zugangsdaten an, weswegen Sie jedem Helfer seine Zugangsdaten mitteilen müssen. Diese können Sie aber auch einfach ausdrucken und dann verteilen.
 
@@ -66,7 +66,7 @@ Mehr Informationen zur Helfer-App finden Sie in der Anleitung der Helfer-App.
 
 **Was ist meine Veranstaltung 3-Wort-ID?**
 
-Wenn sich Helfer in der Helfer-App anmelden möchten, benötigen sie neben Benutzername und Passwort noch die 3-Wort-ID der Vernanstaltung. Zur eindeutigen Identifizierung von Veranstaltungen hat jede Veranstaltung in Bujus eine eigene 3-Wort-ID. Diese finden Sie, wenn Sie in der Schul-App in der Navigation oben auf `Veranstaltung` klicken und dann an erster Stelle über dem Namen der Veranstaltung bei `3-Wort-ID` schauen.
+Wenn sich Helfer in der Helfer-App anmelden möchten, benötigen sie neben Benutzername und Passwort noch die 3-Wort-ID der Veranstaltung. Zur eindeutigen Identifizierung von Veranstaltungen hat jede Veranstaltung in Bujus eine eigene 3-Wort-ID. Diese finden Sie, wenn Sie in der Schul-App in der Navigation oben auf `Veranstaltung` klicken und dann an erster Stelle über dem Namen der Veranstaltung bei `3-Wort-ID` schauen.
 
 :::
 
