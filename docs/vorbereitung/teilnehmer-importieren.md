@@ -89,7 +89,7 @@ Diese Spalten müssen in der CSV-Datei in beliebiger Reihenfolge vorhanden sein:
 
 Diese Spalten sind optional:
 
-- Schulinterne ID
+- Schulinterne-ID
 - Klasse
 
 ### 2. CSV-Datei hochladen
@@ -134,7 +134,7 @@ Dazu finden Sie oberhalb der Checkboxen und Dropdowns eine Vorschau Ihrer Datei 
 
 Unter der Vorschaue Ihrer Datei finden Sie die Einstellungsmöglichkeiten. Hier können Sie auswählen, in welcher Spalte welche Daten sind. Wenn Sie oben in der Vorschau z. B. sehen, dass der Vorname in Ihrer Datei in Spalte 1 ist, müssen Sie bei den Einstellungen in dem Dropdown für Vorname die Spalte 1 auswählen. Tun Sie dies für alle benötigten Daten.
 
-Unter den Einstellungsmöglichkeiten finden Sie eine Vorschaue der Teilnehmer. In dieser Tabelle können Sie kontrollieren, ob Sie Ihre Daten richtig zugeordnet haben. In der ersten Zeile sind die Felder benannt (Schulinterne ID, Vorname, etc.) In den Zeilen darunter werden die zugeordneten Daten aus Ihrer Datei angezeigt. Hier sollten nach der Zuordnung also z. B. nur Schulinterne IDs in der Spalte für Schulinterne IDs stehen, nur Vornamen in der Spalte für Vornamen, etc.
+Unter den Einstellungsmöglichkeiten finden Sie eine Vorschaue der Teilnehmer. In dieser Tabelle können Sie kontrollieren, ob Sie Ihre Daten richtig zugeordnet haben. In der ersten Zeile sind die Felder benannt (Schulinterne-ID, Vorname, etc.) In den Zeilen darunter werden die zugeordneten Daten aus Ihrer Datei angezeigt. Hier sollten nach der Zuordnung also z. B. nur Schulinterne-IDs in der Spalte für Schulinterne-IDs stehen, nur Vornamen in der Spalte für Vornamen, etc.
 
 Standardmäßig ist der Import der Schulinternen-ID und der Klasse deaktiviert. Sollten Sie diese auch importieren wollen, müssen Sie die entsprechenden Checkboxen aktivieren und dann in den Dropdowns die Spalten auswählen.
 
