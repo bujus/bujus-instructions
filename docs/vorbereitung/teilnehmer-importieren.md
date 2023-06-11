@@ -35,7 +35,7 @@ Nachdem Sie die Helfer hinzugefügt haben, sollten Sie jetzt die Teilnehmer impo
 3. Geben Sie `Vorname` und `Nachname` ein.
 4. Wählen Sie das `Geschlecht` aus.
 5. Geben Sie das `Geburtsjahr` ein.
-6. Optional können Sie noch die Schulinterne ID und/oder Klasse angeben (Um z. B. Namensgleichheiten vorzubeugen).
+6. Optional können Sie noch die Schulinterne-ID und/oder Klasse angeben (Um z. B. Namensgleichheiten vorzubeugen).
 7. Klicken Sie unten rechts auf `Hinzufügen`.
 
 <!-- :::info
@@ -53,9 +53,9 @@ Teilnehmer dürfen nur zwischen inkl. 8 und inkl. 25 Jahre alt sein dürfen. Fü
 
 ### 1. CSV-Datei vorbereiten
 
-Als erstes müssen Sie eine CSV-Datei mit Ihren Schülerdaten vorbereiten.
+Als Erstes müssen Sie eine CSV-Datei mit Ihren Schülerdaten vorbereiten.
 
-Wenn Sie diese selbst in Excel erstellen möchten, können Sie sich die Importhilfe herunterladen. Klicken Sie dazu oben links auf `Importhilfe herunterladen`. Diese können sie dann mit Excel öffnen und dann Ihre Schülerdaten in die entsprechenden Spalten reinschreiben oder hineinkopieren.
+Wenn Sie diese selbst in Excel erstellen möchten, können Sie sich die Importhilfe herunterladen. Klicken Sie dazu oben links auf `Importhilfe herunterladen`. Diese können sie dann mit Excel öffnen und dann Ihre Schülerdaten in die entsprechenden Spalten hineinschreiben oder hineinkopieren.
 
 Der normale Weg ist allerdings, dass Sie die Schülerdaten einfach nur aus Ihrer Schülerverwaltungssoftware als CSV-Datei exportieren.
 
@@ -63,9 +63,9 @@ Der normale Weg ist allerdings, dass Sie die Schülerdaten einfach nur aus Ihrer
 
 **Wie exportiere ich die Schülerdaten aus meiner Schülerverwaltungssoftware?**
 
-Das ist von Schülerverwaltungssoftware zu Schülerverwaltungssoftware unterschiedlich. In den meisten Fällen gibt es aber eine Export-Funktion bei der Sie dann auch noch einstellen können, welche Daten Sie exportieren möchten und in welchem Format diese sein sollen.
+Das ist von Schülerverwaltungssoftware zu Schülerverwaltungssoftware unterschiedlich. In den meisten Fällen gibt es aber eine Export-Funktion, bei der Sie dann auch noch einstellen können, welche Daten Sie exportieren möchten und in welchem Format diese sein sollen.
 
-Wenn Sie bei diesem Schritt hilfe benötigen, wenden Sie sich z. B. an den Verantwortlichen an Ihrer Schule oder an den [Bujus-Support](https://bujus.de#contact-section).
+Wenn Sie bei diesem Schritt Hilfe benötigen, wenden Sie sich z. B. an den Verantwortlichen an Ihrer Schule oder an den [Bujus-Support](https://bujus.de#contact-section).
 
 :::
 
@@ -110,7 +110,7 @@ Unter der Checkbox sehen Sie eine Tabelle. Dies ist eine Vorschau Ihrer hochgela
 
 In der ersten Zeile der Tabelle sind in fett einmal die Spalten durchnummeriert (Spalte 1, Spalte 2, etc.)
 
-Wenn die Zeile dadrunter noch keine Teilnehmerdaten enthält, sondern Spaltennamen wie Vorname, Geschlecht, etc. dann enthält Ihre erste Zeile Spaltennamen und Sie müssen die Checkbox aktivieren. Ansonsten nicht.
+Wenn die Zeile darunter noch keine Teilnehmerdaten enthält, sondern Spaltennamen wie Vorname, Geschlecht, etc. dann enthält Ihre erste Zeile Spaltennamen und Sie müssen die Checkbox aktivieren. Ansonsten nicht.
 
 :::
 
@@ -122,7 +122,7 @@ Jetzt geht es darum, Bujus zu zeigen, in welcher Spalte Ihrer Datei welche Daten
 
 Wenn Sie die Importhilfe ausgefüllt haben, sollte in diesem Schritt schon das meiste passen.
 
-Standardmäßig ist allerdings der Import der Schulinternen ID und der Klasse deaktiviert. Sollten Sie diese auch importieren wollen, müssen Sie die entsprechenden Checkboxen aktivieren.
+Standardmäßig ist allerdings der Import der Schulinternen-ID und der Klasse deaktiviert. Sollten Sie diese auch importieren wollen, müssen Sie die entsprechenden Checkboxen aktivieren.
 
 Wenn Sie alles eingestellt haben, klicken Sie unten rechts auf `Importieren`.
 
@@ -130,13 +130,13 @@ Wenn Sie alles eingestellt haben, klicken Sie unten rechts auf `Importieren`.
 
 Wenn Sie die Importhilfe nicht genutzt haben, müssen Sie wahrscheinlich alle Spalten neu zuordnen.
 
-Dazu finden Sie oberhalb der Checkboxen und Dropdowns eine Vorschau Ihrer Datei in Form einer Tabelle. Dabei sind in der ersten Zeile die Spalten durchnummeriert (Spalte 1, Spalte 2, etc.). Dadrunter sehen Sie Daten aus Ihrer Datei.
+Dazu finden Sie oberhalb der Checkboxen und Dropdowns eine Vorschau Ihrer Datei in Form einer Tabelle. Dabei sind in der ersten Zeile die Spalten durchnummeriert (Spalte 1, Spalte 2, etc.). Darunter sehen Sie Daten aus Ihrer Datei.
 
 Unter der Vorschaue Ihrer Datei finden Sie die Einstellungsmöglichkeiten. Hier können Sie auswählen, in welcher Spalte welche Daten sind. Wenn Sie oben in der Vorschau z. B. sehen, dass der Vorname in Ihrer Datei in Spalte 1 ist, müssen Sie bei den Einstellungen in dem Dropdown für Vorname die Spalte 1 auswählen. Tun Sie dies für alle benötigten Daten.
 
-Unter den Einstellungsmöglichkeiten finden Sie eine Vorschaue der Teilnehmer. In dieser Tabelle können Sie kontrollieren, ob Sie Ihre Daten richtig zugeordnet haben. In der ersten Zeile sind die Felder benannt (Schulinterne ID, Vorname, etc.) In den Zeilen dadrunter werden die zugeordneten Daten aus Ihrer Datei angezeigt. Hier sollten nach der Zuordnung also z. B. nur Schulinterne IDs in der Spalte für Schulinterne IDs stehen, nur Vornamen in der Spalte für Vornamen, etc.
+Unter den Einstellungsmöglichkeiten finden Sie eine Vorschaue der Teilnehmer. In dieser Tabelle können Sie kontrollieren, ob Sie Ihre Daten richtig zugeordnet haben. In der ersten Zeile sind die Felder benannt (Schulinterne ID, Vorname, etc.) In den Zeilen darunter werden die zugeordneten Daten aus Ihrer Datei angezeigt. Hier sollten nach der Zuordnung also z. B. nur Schulinterne IDs in der Spalte für Schulinterne IDs stehen, nur Vornamen in der Spalte für Vornamen, etc.
 
-Standardmäßig ist der Import der Schulinternen ID und der Klasse deaktiviert. Sollten Sie diese auch importieren wollen, müssen Sie die entsprechenden Checkboxen aktivieren und dann in den Dropdowns die Spalten auswählen.
+Standardmäßig ist der Import der Schulinternen-ID und der Klasse deaktiviert. Sollten Sie diese auch importieren wollen, müssen Sie die entsprechenden Checkboxen aktivieren und dann in den Dropdowns die Spalten auswählen.
 
 Wenn Sie alles eingestellt haben, klicken Sie unten rechts auf `Importieren`.
 
@@ -153,7 +153,7 @@ Wenn Sie Validierungsfehler bekommen, müssen Sie die Daten in Ihrer CSV-Datei (
 
 ### 5. Import überprüfen
 
-Wenn beim Importieren etwas schief läuft, wird Ihnen dies nach dem Import angezeigt.
+Wenn beim Importieren etwas schiefläuft, wird Ihnen dies nach dem Import angezeigt.
 
 Sie können die fehlerhaften Teilnehmer dann auch exportieren. Klicken Sie dazu oben rechts auf `Exportieren`. Dadurch wird eine CSV-Datei heruntergeladen, welche Sie dann mit Excel öffnen können. In der Tabelle sehen Sie dann Ihre Daten und in der rechten Spalte auch, warum der Teilnehmer nicht importiert werden konnte. Dort können Sie die Daten dann verbessern, erneut exportieren und dann wieder in Bujus importieren.
 
@@ -163,7 +163,7 @@ Sie können die fehlerhaften Teilnehmer dann auch exportieren. Klicken Sie dazu 
 
 Dies liegt meist daran, dass die Umlaute schon nicht richtig aus z. B. Excel exportiert wurden.
 
-Um das Problem zu lösen müssen Sie beim Export aus Excel zunächst ganz normal CSV-Datei wählen und dann aber beim Abspeichern `CSV UTF-8` als Dateityp auswählen. Dann sollten die Umlaute und alle anderen speziellen Zeichen richtig exportiert werden und dann auch in Bujus korrekt angezeigt werden.
+Um das Problem zu lösen, müssen Sie beim Export aus Excel zunächst ganz normal CSV-Datei wählen und dann aber beim Abspeichern `CSV UTF-8` als Dateityp auswählen. Dann sollten die Umlaute und alle anderen speziellen Zeichen richtig exportiert werden und dann auch in Bujus korrekt angezeigt werden.
 
 <!-- ## Teilnehmer bearbeiten
 
