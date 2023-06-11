@@ -28,7 +28,7 @@ import ReactPlayer from "react-player";
 
 Während die Bundesjugendspiele laufen, tragen die Helfer die Ergebnisse der Teilnehmer offline direkt an den Stationen in die Helfer-App ein.
 
-Am Ende der Veranstaltung wenn alle Ergebnisse eingetragen worden sind, laden die Helfer die Ergebnisse hoch. Es ist auch möglich, dass Helfer die Ergebnisse auch schon während der Veranstaltung mal hochladen. Danach können Sie die Ergebnisse auch in der Schul-App einsehen und auch selbst noch bearbeiten.
+Am Ende der Veranstaltung, wenn alle Ergebnisse eingetragen worden sind, laden die Helfer die Ergebnisse hoch. Es ist auch möglich, dass Helfer die Ergebnisse auch schon während der Veranstaltung mal hochladen. Danach können Sie die Ergebnisse auch in der Schul-App einsehen und auch selbst noch bearbeiten.
 
 ## Ergebnisse erfassen
 
@@ -48,7 +48,7 @@ Die Auswahl von Helfer, Teilnehmer und Disziplin ist vielleicht nicht ganz selbs
 
 1. Klicken Sie z. B. in das Teilnehmer-Feld. Dadurch öffnet sich dadrunter eine Liste. In dieser werden aber immer nur die 10 ersten Teilnehmer angezeigt.
 2. Fangen Sie an, den Namen des Teilnehmers einzugeben. Nach ein paar Zeichen sollte der gewünschte Teilnehmer in der Liste auftauchen.
-3. Klicken Sie auf den gewünschten Teilnehmer um ihn auszuwählen. Alternativ können Sie auch die Pfeiltasten (Hoch und Runter) benutzen, um den Teilnehmer aus der Liste zu selektieren und ihn dann mit der Entertaste auswählen.
+3. Klicken Sie auf den gewünschten Teilnehmer, um ihn auszuwählen. Alternativ können Sie auch die Pfeiltasten (Hoch und runter) benutzen, um den Teilnehmer aus der Liste zu selektieren und ihn dann mit der Entertaste auswählen.
 
 :::
 
