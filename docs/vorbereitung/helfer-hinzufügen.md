@@ -35,7 +35,7 @@ Jeder Helfer hat einen eigenen Benutzernamen und ein eigenes Passwort für die H
 1. Öffnen Sie die `Helfer-Übersicht`.
 2. Klicken Sie oben rechts auf `Hinzufügen`. Es öffnet sich ein Dialog.
 3. Geben Sie den `Namen` des Helfers an.
-4. Wenn sie möchten, können Sie selbst noch einen `Benutzernamen` und/oder ein `Passwort` eingeben. Ansonsten werden diese automatisch generiert.
+4. Wenn Sie möchten, können Sie selbst noch einen `Benutzernamen` und/oder ein `Passwort` eingeben. Ansonsten werden diese automatisch generiert.
 5. Klicken Sie unten rechts auf `Hinzufügen`.
 
 ## Helfer bearbeiten
@@ -61,6 +61,6 @@ Das Importieren von Helfern ist sehr ähnlich zum [Importieren von Teilnehmern](
 
 Helfer können grundsätzlich aktiv oder inaktiv sein.
 
-Unabhängig davon, können sich Helfer immer in der Helfer-app einloggen und Ergebnisse lokal eintragen. Inaktive Helfer können dann aber keine Ergebnisse hochladen und auch keine hochgeladene Ergebnisse ansehen, bearbeiten oder entfernen.
+Unabhängig davon, können sich Helfer immer in der Helfer-App einloggen und Ergebnisse lokal eintragen. Inaktive Helfer können dann aber keine Ergebnisse hochladen und auch keine hochgeladene Ergebnisse ansehen, bearbeiten oder entfernen.
 
-Damit die Helfer nicht an den Ergebnissen rumfuschen können, aktivieren Sie sie am besten nur währen der Durchführung der Veranstaltung. Wie Sie sie aktivieren bzw. deaktivieren lernen Sie im Schritte [Helfer einweisen](../durchf%C3%BChrung/helfer-einweisen.md).
+Damit die Helfer nicht an den Ergebnissen rumpfuschen können, aktivieren Sie sie am besten nur während der Durchführung der Veranstaltung. Wie Sie sie aktivieren bzw. deaktivieren, lernen Sie im Schritte [Helfer einweisen](../durchf%C3%BChrung/helfer-einweisen.md).
