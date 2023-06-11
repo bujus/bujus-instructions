@@ -32,9 +32,9 @@ Nachdem Sie die Urkunden generiert und ausgerichtet haben, können Sie nun die U
 
 1. Navigieren Sie zur `Urkundenübersicht`.
 2. Klicken Sie oben rechts auf `Drucken`. Dadurch öffnet sich ein Dialog.
-3. Wenn Sie möchten können Sie eine `Sortierung` und eine `Reihenfolge` für die Urkunden festlegen.
+3. Wenn Sie möchten, können Sie eine `Sortierung` und eine `Reihenfolge` für die Urkunden festlegen.
 4. Klicken Sie auf `Drucken`. Dadurch werden insgesamt drei PDFs generiert - Jeweils eins mit den Ehren-, Sieger- und Teilnahmeurkunden.
-5. Klicken Sie nacheinander auf die drei Buttons um alle drei PDFs zu öffnen.
+5. Klicken Sie nacheinander auf die drei Buttons, um alle drei PDFs zu öffnen.
 6. Laden Sie sich alle drei PDFs herunter.
 7. Legen Sie das Ehren-Urkundenpapier in Ihren Drucker ein.
 8. Drucken Sie die Ehrenurkunden aus. Eventuell müssen Sie dann noch zwischendurch Papier nachlegen.
