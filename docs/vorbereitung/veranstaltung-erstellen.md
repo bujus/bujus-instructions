@@ -59,9 +59,9 @@ Mit einer echten Veranstaltung können Sie eine Veranstaltung mit beliebig viele
 
 Das Startdatum wird zur Berechnung der Altersgruppen der Teilnehmer genutzt und hat damit auch Auswirkungen auf die Auswertung.
 
-Außerdem legt das Startdatum fest, von wann bis wann Sie Ergebnisse in die Veranstaltung eintragen können. Zu Testzwecken können Sie 30 Tage vor dem Startdatum schon Ergebnisse eintragen und danach dann noch 100 Tage lang. Sie müssen die die Bundesjugendspiele also auch nicht unbedingt an einem einzigen Tag durchführen.
+Außerdem legt das Startdatum fest, von wann bis wann Sie Ergebnisse in die Veranstaltung eintragen können. Zu Testzwecken können Sie 30 Tage vor dem Startdatum schon Ergebnisse eintragen und danach dann noch 100 Tage lang. Sie müssen die Bundesjugendspiele also auch nicht unbedingt an einem einzigen Tag durchführen.
 
-Vorbereiten und Auswerten können Sie die Veranstaltung immer.
+Vorbereiten und auswerten können Sie die Veranstaltung immer.
 
 :::
 
