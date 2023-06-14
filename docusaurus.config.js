@@ -64,7 +64,7 @@ const config = {
         disableSwitch: true,
       },
       // Replace with your project's social card
-      image: "img/docusaurus-social-card.jpg",
+      image: "img/hero-mockup-v2-x1920.jpg",
       navbar: {
         title: "Bujus Anleitung",
         logo: {
