@@ -2,6 +2,7 @@
 sidebar_position: 3
 ---
 
+import ExcelCsvFileExport from "@site/static/img/excel-csv-file-export-x480.jpeg";
 import ReactPlayer from "react-player";
 
 # Teilnehmer importieren
@@ -26,7 +27,7 @@ import ReactPlayer from "react-player";
 
 ## Einleitung
 
-Nachdem Sie die Helfer hinzugefügt haben, sollten Sie jetzt die Teilnehmer importieren. Die Teilnehmer können Sie einzeln hinzufügen oder aus einer CSV-Datei importieren.
+Nachdem Sie die Helfer hinzugefügt haben, sollten Sie jetzt die Teilnehmer importieren. Diese können Sie einzeln hinzufügen oder auch importieren.
 
 ## Teilnehmer hinzufügen
 
@@ -161,9 +162,11 @@ Sie können die fehlerhaften Teilnehmer dann auch exportieren. Klicken Sie dazu 
 
 #### Umlaute werden nicht richtig angezeigt
 
-Dies liegt meist daran, dass die Umlaute schon nicht richtig aus z. B. Excel exportiert wurden.
+Meist liegt dies daran, dass die CSV-Datei aus Excel exportiert wurde und Excel die Umlaute schon nicht richtig exportiert hat.
 
-Um das Problem zu lösen, müssen Sie beim Export aus Excel zunächst ganz normal CSV-Datei wählen und dann aber beim Abspeichern `CSV UTF-8` als Dateityp auswählen. Dann sollten die Umlaute und alle anderen speziellen Zeichen richtig exportiert werden und dann auch in Bujus korrekt angezeigt werden.
+Um das Problem zu lösen, müssen Sie beim Export aus Excel zunächst ganz normal `CSV-Datei` wählen und dann aber beim Abspeichern `CSV UTF-8` als Dateityp auswählen. Dann sollten die Umlaute und alle anderen speziellen Zeichen richtig exportiert werden und dann auch in Bujus korrekt angezeigt werden.
+
+<img src={ExcelCsvFileExport}/>
 
 <!-- ## Teilnehmer bearbeiten
 

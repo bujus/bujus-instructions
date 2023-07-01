@@ -26,7 +26,7 @@ import ReactPlayer from "react-player";
 
 ## Einleitung
 
-Nachdem Sie eine Veranstaltung erstellt haben, können Sie nun die Helfer hinzufügen. Dies können Sie einzeln tun oder Sie importieren die Helfer aus einer CSV-Datei.
+Nachdem Sie eine Veranstaltung erstellt haben, können Sie nun die Helfer hinzufügen. Diese können Sie einzeln hinzufügen oder auch importieren.
 
 Jeder Helfer hat einen eigenen Benutzernamen und ein eigenes Passwort für die Helfer-App.
 
