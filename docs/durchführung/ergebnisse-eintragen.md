@@ -35,8 +35,8 @@ Am Ende der Veranstaltung, wenn alle Ergebnisse eingetragen worden sind, laden d
 1. Navigieren Sie zur `Ergebnis-Übersicht`.
 2. Klicken Sie oben rechts auf `Eintragen`. Daraufhin öffnet sich ein Dialog
 3. Wählen Sie den `Teilnehmer` aus.
-4. Wählen Sie danach die `Disziplin` aus.
-5. Geben Sie dann den `Wert` des Ergebnisses ein.
+4. Wählen Sie dann die `Disziplin` aus.
+5. Geben Sie danach den `Wert` des Ergebnisses ein.
 6. Optional können Sie oben noch einen `Helfer` auswählen, der dann für das Ergebnis verantwortlich ist. Bei diesem taucht das Ergebnis dann auch in seiner Helfer-App bei den hochgeladenen Ergebnissen auf.
 7. Klicken Sie unten rechts auf `Eintragen`.
 
